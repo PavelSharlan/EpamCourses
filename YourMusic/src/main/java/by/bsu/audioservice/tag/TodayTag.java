@@ -1,0 +1,58 @@
+package by.bsu.audioservice.tag;
+
+import javax.servlet.jsp.JspException;
+import javax.servlet.jsp.JspWriter;
+import javax.servlet.jsp.tagext.TagSupport;
+import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+/**
+ * Created by 7 on 19.09.2016.
+ */
+@SuppressWarnings("serial")
+public class TodayTag extends TagSupport {
+    /** Field dateFormat  */
+    private String dateFormat;
+
+    /**
+     * Method setFormat sets the format of this TodayTag object.
+     *
+     *
+     *
+     * @param dateFormat the format of this TodayTag object.
+     *
+     */
+    public void setFormat(String dateFormat) {
+        this.dateFormat = dateFormat;
+    }
+
+    /**
+     * Method doStartTag ...
+     * @return int
+     * @throws JspException when
+     */
+    @Override
+    public int doStartTag() throws JspException {
+        try {
+            JspWriter out = pageContext.getOut();
+            Date today = new Date();
+            SimpleDateFormat dateFormatter = new SimpleDateFormat(dateFormat);
+            out.print(dateFormatter.format(today));
+
+        } catch (IOException e) {
+            throw new JspException("Error: " + e.getMessage());
+        }
+        return SKIP_BODY;
+    }
+
+    /**
+     * Method doEndTag ...
+     * @return int
+     * @throws JspException when
+     */
+    @Override
+    public int doEndTag() throws JspException {
+        return EVAL_PAGE;
+    }
+}
