@@ -1,0 +1,85 @@
+{
+    "sweets": [
+        {
+            "type": "Lollipop",
+            "name": "Alyonka",
+            "weight": "0.012",
+            "sugar": "0.006",
+            "country": "Belarus",
+            "taste": "sugary",
+            "aroma": "duchess"
+        },
+        {
+            "type": "Lollipop",
+            "name": "Runways",
+            "weight": "0.012",
+            "sugar": "0.006",
+            "country": "Russia",
+            "taste": "acidic",
+            "aroma": "lemon"
+        },
+        {
+            "type": "LollipopAtWand",
+            "name": "Granny's",
+            "weight": "0.1",
+            "sugar": "0.06",
+            "country": "Belarus",
+            "taste": "sugary",
+            "aroma": "cola",
+            "form": "cockerel"
+        },
+        {
+            "type": "GlazedCandy",
+            "name": "Carnival",
+            "weight": "0.015",
+            "sugar": "0.01",
+            "country": "Germany",
+            "taste": "sugary",
+            "frosting": "milk"
+        },
+        {
+            "type": "Lollipop",
+            "name": "Runways",
+            "weight": "0.012",
+            "sugar": "0.006",
+            "country": "Russia",
+            "taste": "acidic",
+            "aroma": "lemon"
+        },
+        {
+            "type": "LollipopAtWand",
+            "name": "Granny's",
+            "weight": "0.1",
+            "sugar": "0.05",
+            "country": "Belarus",
+            "taste": "sugary",
+            "aroma": "cola",
+            "form": "cockerel"
+        },
+        {
+            "type": "GlazedCandy",
+            "name": "Carnival",
+            "weight": "0.015",
+            "sugar": "0.01",
+            "country": "Germany",
+            "taste": "sugary",
+            "frosting": "milk"
+        },
+        {
+            "type": "Wafer",
+            "name": "Hero",
+            "weight": "0.1",
+            "sugar": "0.06",
+            "country": "Russia",
+            "aroma": "cocoa"
+        },
+        {
+            "type": "Wafer",
+            "name": "Hero",
+            "weight": "0.1",
+            "sugar": "0.06",
+            "country": "Russia",
+            "aroma": "lemon"
+        }
+    ]
+}

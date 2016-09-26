@@ -1,0 +1,16 @@
+15:42:41.717 [main] INFO  by.bsu.gift.main.Main - Creating storage
+15:42:41.776 [main] INFO  by.bsu.gift.main.Main - The storage is created!
+15:42:41.777 [main] INFO  by.bsu.gift.main.Main - Creating gift
+15:42:41.779 [main] INFO  by.bsu.gift.main.Main - The gift is created!
+15:42:41.780 [main] INFO  by.bsu.gift.main.Main - Finding the summary weight of the gift
+15:42:41.781 [main] INFO  by.bsu.gift.main.Main - Sorting sweets from the gift
+15:42:41.922 [main] INFO  by.bsu.gift.main.Main - Sweets has been sorted!
+15:42:41.923 [main] INFO  by.bsu.gift.main.Main - Searching sweets in the gift
+15:47:15.949 [main] INFO  by.bsu.gift.main.Main - Creating storage
+15:47:16.007 [main] INFO  by.bsu.gift.main.Main - The storage has been created!
+15:47:16.008 [main] INFO  by.bsu.gift.main.Main - Creating gift
+15:47:16.010 [main] INFO  by.bsu.gift.main.Main - The gift has been created!
+15:47:16.012 [main] INFO  by.bsu.gift.main.Main - Finding the summary weight of the gift
+15:47:16.012 [main] INFO  by.bsu.gift.main.Main - Sorting sweets from the gift
+15:47:16.161 [main] INFO  by.bsu.gift.main.Main - Sweets has been sorted!
+15:47:16.162 [main] INFO  by.bsu.gift.main.Main - Searching sweets in the gift
