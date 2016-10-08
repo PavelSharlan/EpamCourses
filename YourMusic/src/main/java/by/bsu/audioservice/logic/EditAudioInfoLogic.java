@@ -7,9 +7,18 @@ import by.bsu.audioservice.exception.LogicException;
 import by.bsu.audioservice.exception.TechnicalException;
 
 /**
+ * Class EditAudioInfoLogic
+ *
  * Created by 7 on 12.09.2016.
  */
 public class EditAudioInfoLogic {
+    /**
+     * Method takeAudio
+     *
+     * @param id of type Long
+     * @return Audio
+     * @throws TechnicalException
+     */
     public static Audio takeAudio(Long id) throws TechnicalException {
         try {
             return AudioDAO.getInstance().takeAudioByAudioId(id);
@@ -18,6 +27,14 @@ public class EditAudioInfoLogic {
         }
     }
 
+    /**
+     * Method edit
+     *
+     * @param currentAudio of type Audio
+     * @param newAudio of type Audio
+     * @throws LogicException
+     * @throws TechnicalException
+     */
     public static void edit(Audio currentAudio, Audio newAudio) throws LogicException, TechnicalException {
         if (!currentAudio.equals(newAudio)){
             try {

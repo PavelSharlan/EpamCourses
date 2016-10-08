@@ -5,11 +5,18 @@ import by.bsu.audioservice.exception.DAOException;
 import by.bsu.audioservice.exception.TechnicalException;
 
 /**
- *
+ * Class BanAccountLogic
  *
  * Created by 7 on 15.09.2016.
  */
 public class BanAccountLogic {
+    /**
+     * Method ban
+     *
+     * @param accountId of type Long
+     * @return boolean
+     * @throws TechnicalException
+     */
     public static boolean ban(Long accountId) throws TechnicalException {
         boolean flag = false;
         try {
@@ -19,6 +26,14 @@ public class BanAccountLogic {
         }
         return flag;
     }
+
+    /**
+     * Method unban
+     *
+     * @param accountId of type Long
+     * @return boolean
+     * @throws TechnicalException
+     */
     public static boolean unban(Long accountId) throws TechnicalException {
         boolean flag = false;
         try {

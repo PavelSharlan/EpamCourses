@@ -9,12 +9,20 @@ import by.bsu.audioservice.exception.TechnicalException;
 import java.util.ArrayList;
 
 /**
+ * Class ShowUserAudioLogic
+ *
  * Created by 7 on 18.08.2016.
  */
 public class ShowUserAudioLogic {
+    /**
+     * Method getUserAccountAudios
+     *
+     * @param userAccount of type UserAccount
+     * @return ArrayList<Audio>
+     * @throws TechnicalException
+     */
     public static ArrayList<Audio> getUserAccountAudios(UserAccount userAccount) throws TechnicalException {
         try {
-
             return AudioDAO.getInstance().takeUserAccountAudios(userAccount);
         } catch (DAOException e) {
             throw new TechnicalException("DAOException", e);

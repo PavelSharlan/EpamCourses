@@ -8,9 +8,21 @@ import by.bsu.audioservice.exception.TechnicalException;
 import by.bsu.audioservice.util.MD5Hash;
 
 /**
+ * Class ChangePasswordLogic
+ *
  * Created by 7 on 16.08.2016.
  */
 public class ChangePasswordLogic {
+    /**
+     * Method change
+     *
+     * @param user of type User
+     * @param password of type String
+     * @param newPassword of type String
+     * @param newPasswordAgain of type String
+     * @throws LogicException
+     * @throws TechnicalException
+     */
     public static void change(User user, String password, String newPassword, String newPasswordAgain) throws LogicException, TechnicalException {
         String hashPass = MD5Hash.md5Custom(password);
         if (!user.getPassword().equals(hashPass)){

@@ -9,9 +9,18 @@ import by.bsu.audioservice.exception.TechnicalException;
 import java.util.ArrayList;
 
 /**
+ * Class SortAudioByGenreLogic
+ *
  * Created by 7 on 26.08.2016.
  */
 public class SortAudioByGenreLogic {
+    /**
+     * Method getAudiosByGenre
+     *
+     * @param genre of type String
+     * @return ArrayList<Audio>
+     * @throws TechnicalException
+     */
     public static ArrayList<Audio> getAudiosByGenre(String genre) throws TechnicalException {
         ArrayList<Audio> audios = null;
         try {
@@ -30,6 +39,13 @@ public class SortAudioByGenreLogic {
         }
         return audios;
     }
+
+    /**
+     * Method replaceUnderline
+     *
+     * @param str of type String
+     * @return String
+     */
     private static String replaceUnderline(String str){
         return str.replace('_', '-');
     }

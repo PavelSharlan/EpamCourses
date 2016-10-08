@@ -8,9 +8,17 @@ import by.bsu.audioservice.exception.TechnicalException;
 import java.util.ArrayList;
 
 /**
+ * Class ShowAllUsersAccountsLogic
+ *
  * Created by 7 on 10.09.2016.
  */
 public class ShowAllUsersAccountsLogic {
+    /**
+     * Method show
+     *
+     * @return ArrayList<UserAccount>
+     * @throws TechnicalException
+     */
     public static ArrayList<UserAccount> show() throws TechnicalException {
         try {
             return UserAccountDAO.getInstance().takeAllAccounts();
