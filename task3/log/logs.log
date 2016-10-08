@@ -1,0 +1,61 @@
+23:38:32.271 [main] INFO  by.bsu.parsing.main.Main - Program is starting!
+23:38:32.389 [main] INFO  by.bsu.parsing.valid.XMLValidator - XML document is valid!
+23:38:32.416 [main] INFO  by.bsu.parsing.main.Main - DOM-parser works correctly!
+23:38:32.431 [main] INFO  by.bsu.parsing.main.Main - SAX-parser works correctly!
+23:38:32.446 [main] INFO  by.bsu.parsing.main.Main - StAX-parser works correctly!
+23:48:26.574 [main] INFO  by.bsu.parsing.main.Main - Program is starting!
+23:48:26.641 [main] INFO  by.bsu.parsing.valid.XMLValidator - XML document is valid!
+23:48:26.662 [main] INFO  by.bsu.parsing.main.Main - DOM-parser works correctly!
+23:48:26.676 [main] INFO  by.bsu.parsing.main.Main - SAX-parser works correctly!
+23:48:26.686 [main] INFO  by.bsu.parsing.main.Main - StAX-parser works correctly!
+00:14:15.502 [main] INFO  by.bsu.parsing.main.Main - Program is starting!
+00:14:15.570 [main] INFO  by.bsu.parsing.valid.XMLValidator - XML document is valid!
+00:14:15.593 [main] INFO  by.bsu.parsing.main.Main - DOM-parser works correctly!
+00:14:15.605 [main] INFO  by.bsu.parsing.main.Main - SAX-parser works correctly!
+00:14:15.614 [main] INFO  by.bsu.parsing.main.Main - StAX-parser works correctly!
+00:18:36.902 [main] INFO  by.bsu.parsing.main.Main - Program is starting!
+00:18:36.979 [main] INFO  by.bsu.parsing.valid.XMLValidator - XML document is valid!
+00:18:36.999 [main] INFO  by.bsu.parsing.main.Main - DOM-parser works correctly!
+00:18:37.012 [main] INFO  by.bsu.parsing.main.Main - SAX-parser works correctly!
+00:18:37.023 [main] INFO  by.bsu.parsing.main.Main - StAX-parser works correctly!
+00:20:02.417 [main] INFO  by.bsu.parsing.main.Main - Program is starting!
+00:20:02.486 [main] INFO  by.bsu.parsing.valid.XMLValidator - XML document is valid!
+00:20:02.508 [main] INFO  by.bsu.parsing.main.Main - DOM-parser works correctly!
+00:20:02.520 [main] INFO  by.bsu.parsing.main.Main - SAX-parser works correctly!
+00:20:02.531 [main] INFO  by.bsu.parsing.main.Main - StAX-parser works correctly!
+00:20:20.973 [main] INFO  by.bsu.parsing.main.Main - Program is starting!
+00:20:21.039 [main] INFO  by.bsu.parsing.valid.XMLValidator - XML document is valid!
+00:20:21.061 [main] INFO  by.bsu.parsing.main.Main - DOM-parser works correctly!
+00:20:21.072 [main] INFO  by.bsu.parsing.main.Main - SAX-parser works correctly!
+00:20:21.084 [main] INFO  by.bsu.parsing.main.Main - StAX-parser works correctly!
+00:20:43.004 [main] INFO  by.bsu.parsing.main.Main - Program is starting!
+00:20:43.084 [main] INFO  by.bsu.parsing.valid.XMLValidator - XML document is valid!
+00:20:43.112 [main] INFO  by.bsu.parsing.main.Main - DOM-parser works correctly!
+00:20:43.123 [main] INFO  by.bsu.parsing.main.Main - SAX-parser works correctly!
+00:20:43.135 [main] INFO  by.bsu.parsing.main.Main - StAX-parser works correctly!
+00:26:37.791 [main] INFO  by.bsu.parsing.main.Main - Program is starting!
+00:26:37.876 [main] INFO  by.bsu.parsing.valid.XMLValidator - XML document is valid!
+00:26:37.901 [main] INFO  by.bsu.parsing.main.Main - DOM-parser works correctly!
+00:26:37.913 [main] INFO  by.bsu.parsing.main.Main - SAX-parser works correctly!
+00:26:37.925 [main] INFO  by.bsu.parsing.main.Main - StAX-parser works correctly!
+00:28:46.307 [main] INFO  by.bsu.parsing.main.Main - Program is starting!
+00:28:46.372 [main] INFO  by.bsu.parsing.valid.XMLValidator - XML document is valid!
+00:28:46.391 [main] INFO  by.bsu.parsing.main.Main - DOM-parser works correctly!
+00:28:46.401 [main] INFO  by.bsu.parsing.main.Main - SAX-parser works correctly!
+00:28:46.412 [main] INFO  by.bsu.parsing.main.Main - StAX-parser works correctly!
+00:28:56.563 [main] INFO  by.bsu.parsing.main.Main - Program is starting!
+00:28:56.629 [main] INFO  by.bsu.parsing.valid.XMLValidator - XML document is valid!
+00:28:56.650 [main] INFO  by.bsu.parsing.main.Main - DOM-parser works correctly!
+00:28:56.661 [main] INFO  by.bsu.parsing.main.Main - SAX-parser works correctly!
+00:28:56.674 [main] INFO  by.bsu.parsing.main.Main - StAX-parser works correctly!
+00:29:28.135 [main] INFO  by.bsu.parsing.main.Main - Program is starting!
+00:29:28.204 [main] INFO  by.bsu.parsing.valid.XMLValidator - XML document is valid!
+00:29:28.224 [main] INFO  by.bsu.parsing.main.Main - DOM-parser works correctly!
+00:29:28.236 [main] INFO  by.bsu.parsing.main.Main - SAX-parser works correctly!
+00:29:28.247 [main] INFO  by.bsu.parsing.main.Main - StAX-parser works correctly!
+00:42:13.865 [main] INFO  by.bsu.parsing.main.Main - Program is starting!
+00:42:13.945 [main] INFO  by.bsu.parsing.valid.XMLValidator - XML document is valid!
+00:42:13.970 [main] INFO  by.bsu.parsing.main.Main - DOM-parser works correctly!
+00:42:13.985 [main] INFO  by.bsu.parsing.main.Main - SAX-parser works correctly!
+00:42:13.997 [main] INFO  by.bsu.parsing.main.Main - StAX-parser works correctly!
+00:42:13.999 [main] INFO  by.bsu.parsing.main.Main - The program has completed!

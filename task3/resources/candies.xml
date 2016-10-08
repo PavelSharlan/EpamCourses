@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<candies
+        xmlns:tns="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://www.example.com/candies"
+        tns:schemaLocation="http://www.example.com/candies candies.xsd">
+    <glazed-candy production="ukr" frosting="milk">
+        <name>Nn</name>
+        <energy>400</energy>
+        <ingredients>
+            <sugar>100</sugar>
+            <fructose>20</fructose>
+            <vanillin>30</vanillin>
+        </ingredients>
+        <value>
+            <proteins>10</proteins>
+            <fats>50</fats>
+            <carbohydrates>100</carbohydrates>
+        </value>
+    </glazed-candy>
+
+    <glazed-candy production="ukr" frosting="milk">
+        <name>Nn</name>
+        <energy>400</energy>
+        <ingredients>
+            <sugar>100</sugar>
+            <fructose>20</fructose>
+            <vanillin>30</vanillin>
+        </ingredients>
+        <value>
+            <proteins>10</proteins>
+            <fats>50</fats>
+            <carbohydrates>100</carbohydrates>
+        </value>
+    </glazed-candy>
+
+    <lollipop production="blr" aroma="cocoa">
+        <name>Runways</name>
+        <energy>350</energy>
+        <ingredients>
+            <sugar>25</sugar>
+            <fructose>3</fructose>
+            <vanillin>5</vanillin>
+        </ingredients>
+        <value>
+            <proteins>10</proteins>
+            <fats>100</fats>
+            <carbohydrates>800</carbohydrates>
+        </value>
+    </lollipop>
+
+    <lollipop production="blr" aroma="cocoa">
+        <name>Runways</name>
+        <energy>350</energy>
+        <ingredients>
+            <sugar>25</sugar>
+            <fructose>3</fructose>
+            <vanillin>5</vanillin>
+        </ingredients>
+        <value>
+            <proteins>10</proteins>
+            <fats>100</fats>
+            <carbohydrates>800</carbohydrates>
+        </value>
+    </lollipop>
+
+    <lollipop production="blr" aroma="cocoa">
+        <name>Sergey</name>
+        <energy>350</energy>
+        <ingredients>
+            <sugar>25</sugar>
+            <fructose>3</fructose>
+            <vanillin>5</vanillin>
+        </ingredients>
+        <value>
+            <proteins>10</proteins>
+            <fats>100</fats>
+            <carbohydrates>800</carbohydrates>
+        </value>
+    </lollipop>
+
+    <lollipop production="rus" aroma="cola">
+        <name>MMM</name>
+        <energy>450</energy>
+        <ingredients>
+            <sugar>25</sugar>
+            <fructose>3</fructose>
+            <vanillin>5</vanillin>
+        </ingredients>
+        <value>
+            <proteins>10</proteins>
+            <fats>100</fats>
+            <carbohydrates>800</carbohydrates>
+        </value>
+    </lollipop>
+
+</candies>

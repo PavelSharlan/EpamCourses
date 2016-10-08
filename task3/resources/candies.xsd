@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://www.example.com/candies"
+        xmlns:tns="http://www.example.com/candies"
+        elementFormDefault="qualified">
+
+    <element name="candies">
+        <complexType>
+            <sequence>
+                <element ref="tns:candy"
+                         minOccurs="2"
+                         maxOccurs="unbounded" />
+            </sequence>
+        </complexType>
+    </element>
+
+    <element name="candy" type="tns:Candy" abstract="true" />
+    <element name="lollipop" type="tns:Lollipop" substitutionGroup="tns:candy"/>
+    <element name="glazed-candy" type="tns:GlazedCandy" substitutionGroup="tns:candy"/>
+
+    <complexType name="Candy">
+        <sequence>
+            <element name="name" type="string" />
+            <element name="energy" type="positiveInteger" />
+            <element name="ingredients" type="tns:Ingredients" />
+            <element name="value" type="tns:Value" />
+        </sequence>
+        <attribute name="production" use="optional" default="blr">
+            <simpleType>
+                <restriction base="string">
+                    <enumeration value="blr"/>
+                    <enumeration value="ukr"/>
+                    <enumeration value="rus"/>
+                </restriction>
+            </simpleType>
+        </attribute>
+    </complexType>
+
+    <complexType name="Lollipop">
+        <complexContent>
+            <extension base="tns:Candy">
+                <attribute name="aroma" use="optional" default="cola">
+                    <simpleType>
+                        <restriction base="string">
+                            <enumeration value="duchess"></enumeration>
+                            <enumeration value="barberry"></enumeration>
+                            <enumeration value="cola"></enumeration>
+                            <enumeration value="cocoa"></enumeration>
+                            <enumeration value="lemon"></enumeration>
+                        </restriction>
+                    </simpleType>
+                </attribute>
+            </extension>
+        </complexContent>
+    </complexType>
+
+    <complexType name="GlazedCandy">
+        <complexContent>
+            <extension base="tns:Candy">
+                <attribute name="frosting" use="optional" default="milk">
+                    <simpleType>
+                        <restriction base="string">
+                            <enumeration value="milk"></enumeration>
+                            <enumeration value="chocolate"></enumeration>
+                            <enumeration value="vanilla"></enumeration>
+                            <enumeration value="strawberry"></enumeration>
+                        </restriction>
+                    </simpleType>
+                </attribute>
+            </extension>
+        </complexContent>
+    </complexType>
+
+    <complexType name="Ingredients">
+        <sequence>
+            <element name="sugar" type="positiveInteger" />
+            <element name="fructose" type="positiveInteger" />
+            <element name="vanillin" type="positiveInteger" />
+        </sequence>
+    </complexType>
+
+    <complexType name="Value">
+        <sequence>
+            <element name="proteins" type="positiveInteger" />
+            <element name="fats" type="positiveInteger" />
+            <element name="carbohydrates" type="positiveInteger" />
+        </sequence>
+    </complexType>
+</schema>

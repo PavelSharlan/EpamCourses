@@ -1,0 +1,6 @@
+Lollipop{name= 'Runways, energy= 350, Ingredients{sugar=25, fructose=3, vanillin=5}, Value{carbohydrates=800, fats=100, proteins=10}, production= BLR, aroma= COCOA}
+Lollipop{name= 'Runways, energy= 350, Ingredients{sugar=25, fructose=3, vanillin=5}, Value{carbohydrates=800, fats=100, proteins=10}, production= BLR, aroma= COCOA}
+Lollipop{name= 'Sergey, energy= 350, Ingredients{sugar=25, fructose=3, vanillin=5}, Value{carbohydrates=800, fats=100, proteins=10}, production= BLR, aroma= COCOA}
+Lollipop{name= 'MMM, energy= 450, Ingredients{sugar=25, fructose=3, vanillin=5}, Value{carbohydrates=800, fats=100, proteins=10}, production= RUS, aroma= COLA}
+GlazedCandy{name= Nn, energy= 400, Ingredients{sugar=100, fructose=20, vanillin=30}, Value{carbohydrates=100, fats=50, proteins=10}, production= UKR frosting= MILK}
+GlazedCandy{name= Nn, energy= 400, Ingredients{sugar=100, fructose=20, vanillin=30}, Value{carbohydrates=100, fats=50, proteins=10}, production= UKR frosting= MILK}
