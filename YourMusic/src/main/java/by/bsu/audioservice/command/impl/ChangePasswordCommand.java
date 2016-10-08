@@ -13,18 +13,35 @@ import org.apache.logging.log4j.Logger;
 import javax.servlet.http.HttpServletRequest;
 
 /**
+ * Class ChangePasswordCommand
+ *
  * Created by 7 on 16.08.2016.
  */
 public class ChangePasswordCommand implements Command {
-    private static final String USER_CABINET_JSP = "/jsp/user_cabinet.jsp";
-    private static final String USER_SETTINGS_JSP = "/jsp/settings.jsp";
+    /** Field USER */
     private static final String USER = "user";
+
+    /** Field OLD_PASSWORD */
     private static final String OLD_PASSWORD = "old_password";
+
+    /** Field NEW_PASSWORD_FIRST */
     private static final String NEW_PASSWORD_FIRST = "new_password1";
+
+    /** Field NEW_PASSWORD_SECOND */
     private static final String NEW_PASSWORD_SECOND = "new_password2";
+
+    /** Field PASSWORD_ERROR */
     private static final String PASSWORD_ERROR = "password_error";
+
+    /** Field LOGGER */
     private static final Logger LOGGER = LogManager.getLogger(ChangePasswordCommand.class);
 
+    /**
+     * Method execute
+     *
+     * @param request of type HttpServletRequest
+     * @return String
+     */
     @Override
     public String execute(HttpServletRequest request) {
         LOGGER.info("Change password command");
@@ -44,6 +61,7 @@ public class ChangePasswordCommand implements Command {
             page = ConfigurationManager.getInstance().getProperty(ConfigurationManager.USER_SETTINGS_PATH);
         } catch (TechnicalException e) {
             LOGGER.error("Something was wrong, redirect to error page!", e);
+            page = ConfigurationManager.getInstance().getProperty(ConfigurationManager.ERROR_PAGE_PATH);
         }
         return page;
     }

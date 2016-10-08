@@ -62,11 +62,6 @@
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <div class="date">
-                        <p><ctg:today format="dd.MM.yyyy"/></p>
-                    </div>
-                </li>
-                <li>
                     <form name="register-form" action="controller">
                         <input type="hidden" name="command" value="login_route">
                         <input type="submit" class="btn btn-primary" value="<fmt:message key="button.login"/>">
@@ -123,7 +118,11 @@
 </div>
 <footer class="footer">
     <div class="container">
-        <p align="center" class="text-muted">yourmusic@gmail.com</p>
+        <div class="date">
+            <p align="center" class="text-muted">
+                <ctg:today format="dd.MM.yyyy"/>
+            </p>
+        </div>
     </div>
 </footer>
 </body>

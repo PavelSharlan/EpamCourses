@@ -13,10 +13,23 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
+ * SendCommentLogic
+ *
  * Created by 7 on 11.09.2016.
  */
 public class SendCommentLogic {
+
+    /** Field COMMENT */
     private static final String COMMENT = "comment";
+
+    /**
+     * Method sendComment
+     *
+     * @param requestData of type String
+     * @param user of type User
+     * @return String
+     * @throws TechnicalException
+     */
     public static String sendComment(String requestData, User user) throws TechnicalException {
         JSONObject json = null;
         try {

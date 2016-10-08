@@ -8,6 +8,8 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
+ * Class TodayTag
+ *
  * Created by 7 on 19.09.2016.
  */
 @SuppressWarnings("serial")

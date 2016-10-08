@@ -16,31 +16,63 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 
 /**
+ * Class CommentDAO
+ *
  * Created by 7 on 11.09.2016.
  */
 public class CommentDAO extends AbstractCommentDAO {
+    /** Field SQL_SELECT_ALL_COMMENTS */
     private static final String SQL_SELECT_ALL_COMMENTS = "SELECT c.comment_id, c.message, c.time, c.user_id," +
             " u.first_name, u.last_name, u.email, u.password, u.phone_number, u.role FROM comments AS c JOIN users AS u " +
             "ON c.user_id = u.user_id ORDER BY c.time desc;";
+
+    /** Field SQL_INSERT_COMMENT */
     private static final String SQL_INSERT_COMMENT = "INSERT INTO comments (user_id, message, time) VALUES (?, ?, ?);";
 
+    /** Field MESSAGE */
     private static final String MESSAGE = "message";
+
+    /** Field COMMENT_ID */
     private static final String COMMENT_ID = "comment_id";
+
+    /** Field USER_ID */
     private static final String USER_ID = "user_id";
+
+    /** Field TIME */
     private static final String TIME = "time";
+
+    /** Field FIRST_NAME */
     private static final String FIRST_NAME = "first_name";
+
+    /** LAST_NAME */
     private static final String LAST_NAME = "last_name";
+
+    /** Field EMAIL */
     private static final String EMAIL = "email";
+
+    /** Field PHONE_NUMBER */
     private static final String PHONE_NUMBER = "phone_number";
+
+    /** Field ROLE */
     private static final String ROLE = "role";
+
+    /** Field PASSWORD */
     private static final String PASSWORD = "password";
 
+    /** Field instance */
     private static CommentDAO instance = CommentDAO.getInstance();
 
-    private static final Logger LOGGER = LogManager.getLogger(CommentDAO.class);
+    /**
+     * Instantiates a new CommentDAO
+     */
     private CommentDAO(){
     }
 
+    /**
+     * Method getInstance
+     *
+     * @return CommentDAO
+     */
     public static CommentDAO getInstance(){
         if (instance == null){
             instance = new CommentDAO();
@@ -48,6 +80,12 @@ public class CommentDAO extends AbstractCommentDAO {
         return instance;
     }
 
+    /**
+     * Method takeComments
+     *
+     * @return ArrayList<Comment>
+     * @throws DAOException
+     */
     @Override
     public ArrayList<Comment> takeComments() throws DAOException {
         ArrayList<Comment> comments = new ArrayList<Comment>();
@@ -74,6 +112,14 @@ public class CommentDAO extends AbstractCommentDAO {
         }
         return comments;
     }
+
+    /**
+     * Method addComment
+     *
+     * @param comment of type Comment
+     * @return boolean
+     * @throws DAOException
+     */
     @Override
     public boolean addComment(Comment comment) throws DAOException {
         boolean flag = false;

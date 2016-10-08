@@ -9,12 +9,23 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 
 /**
+ * Class LanguageCommand
+ *
  * Created by 7 on 07.08.2016.
  */
 public class LanguageCommand implements Command {
+    /** Field LANG */
     private static final String LANG = "lang";
+
+    /** Field LOGGER */
     private static final Logger LOGGER = LogManager.getLogger(LanguageCommand.class);
 
+    /**
+     * Method execute
+     *
+     * @param request of type HttpServletRequest
+     * @return String
+     */
     @Override
     public String execute(HttpServletRequest request) {
         LOGGER.info("Change language command.");

@@ -9,12 +9,20 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
 /**
+ * Class MD5Hash
+ *
  * Created by 7 on 26.07.2016.
  */
 public class MD5Hash {
-
+    /** Field LOGGER */
     private static final Logger LOGGER = LogManager.getLogger(MD5Hash.class);
 
+    /**
+     * Md 5 custom string.
+     *
+     * @param st of type String
+     * @return String
+     */
     public static String md5Custom(String st) {
         MessageDigest messageDigest = null;
         byte[] digest = new byte[0];

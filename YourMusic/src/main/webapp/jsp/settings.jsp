@@ -54,6 +54,12 @@
 <div class="content">
     <div class = "container">
         <div class="col-md-offset-3 col-md-6">
+            <c:if test="${error != null}">
+                <div class="alert alert-danger" id="myAlert">
+                    <a href="#" class="close" data-dismiss="alert" data-target="alert-danger" aria-label="close">&times;</a>
+                    <strong>${error}</strong>
+                </div>
+            </c:if>
         <form name="editUserSettingsForm" action="controller" method="post" id="form-register">
             <h3><span class="label label-default"><fmt:message key="title.settings"/></span></h3>
             <div class="settings-content">

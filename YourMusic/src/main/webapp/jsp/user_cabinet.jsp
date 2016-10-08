@@ -5,18 +5,18 @@
 <fmt:setLocale value="${lang}" />
 <fmt:setBundle basename="content" />
 <html>
-<head>
-    <meta charset="utf-8">
-    <title><fmt:message key="button.user_cabinet"/></title>
-    <link rel="stylesheet" href="../css/bootstrap.css">
-    <link rel="stylesheet" href="../css/bootstrap.min.css">
-    <link rel="stylesheet" href="../css/fontello.css">
-    <link rel="stylesheet" href="../css/main.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
-    <script src="../js/jquery-3.1.0.js"></script>
-    <script src="../js/ajax-scripts.js"></script>
-    <script src="../js/bootstrap.js" type="text/javascript"></script>
-</head>
+    <head>
+        <meta charset="utf-8">
+        <title><fmt:message key="button.user_cabinet"/></title>
+        <link rel="stylesheet" href="../css/bootstrap.css">
+        <link rel="stylesheet" href="../css/bootstrap.min.css">
+        <link rel="stylesheet" href="../css/fontello.css">
+        <link rel="stylesheet" href="../css/main.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+        <script src="../js/jquery-3.1.0.js"></script>
+        <script src="../js/ajax-scripts.js"></script>
+        <script src="../js/bootstrap.js" type="text/javascript"></script>
+    </head>
 <body>
 <nav class="navbar navbar-default">
     <div class="container-fluid">
@@ -61,7 +61,7 @@
                                                 <input type="hidden" name="command" value="put_money">
                                                 <div class="form-group-inline">
                                                     <label for="money"><fmt:message key="label.put_money"/></label>
-                                                    <input type="text" id="money" name="money" value="${audio.price}" class="form-control input" pattern="(^\d{0,8}[.,]?\d{1,4}$)" title="Incorrect money" required >
+                                                    <input type="text" id="money" name="money" value="${audio.price}" class="form-control input" pattern="(^[1-9][0-9]{0,2}$)" title="Incorrect money" required >
                                                     <input type="submit" value="<fmt:message key="button.put"/>" class="btn btn-login-submit"/>
                                                 </div>
                                             </form>
@@ -85,7 +85,7 @@
 <div class="col-md-offset-3 col-md-7">
     <table class="table table-striped ">
         <caption>
-            <fmt:message key="label.my.audios">
+            <fmt:message key="label.my.audios"/>
         </caption>
         <thead>
         <tr>
@@ -114,7 +114,6 @@
         </c:forEach>
         </tbody>
     </table>
-</div>
 </div>
 </body>
 </html>

@@ -7,7 +7,15 @@ import java.util.regex.Pattern;
  * Created by 7 on 16.08.2016.
  */
 public class PasswordValidator {
+
     private static final String PASSWORD_REGEX = ".{3,}";
+
+    /**
+     * Validate boolean.
+     *
+     * @param password the password
+     * @return the boolean
+     */
     public static boolean validate(String password){
         boolean flag = false;
         Pattern pattern = Pattern.compile(PASSWORD_REGEX);

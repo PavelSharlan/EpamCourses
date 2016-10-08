@@ -9,9 +9,23 @@ import by.bsu.audioservice.exception.TechnicalException;
 import by.bsu.audioservice.valid.AudioDataValidator;
 
 /**
+ * Class LoadAudioLogic
+ *
  * Created by 7 on 02.09.2016.
  */
 public class LoadAudioLogic {
+    /**
+     * Load audio.
+     *
+     * @param singer of type String
+     * @param name of type String
+     * @param audioUrl of type String
+     * @param price of type String
+     * @param genreStr of type String
+     * @param demoUrl of type String
+     * @throws TechnicalException
+     * @throws LogicException
+     */
     public static void loadAudio(String singer, String name, String audioUrl, String price, String genreStr, String demoUrl) throws TechnicalException, LogicException {
         Audio audio = null;
         if (AudioDataValidator.isCorrectPrice(price) & AudioDataValidator.isCorrectGenre(genreStr)){
@@ -31,6 +45,8 @@ public class LoadAudioLogic {
             } catch (DAOException e) {
                 throw new TechnicalException("DAOException", e);
             }
+        } else {
+            throw new LogicException("Wrong input data!");
         }
     }
 }

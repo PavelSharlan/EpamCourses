@@ -16,16 +16,35 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
+ * Class RegisterCommand
+ *
  * Created by 7 on 06.08.2016.
  */
 public class RegisterCommand implements Command {
+    /** Field EMAIL */
     private static final String EMAIL = "email";
+
+    /** Field PASSWORD */
     private static final String PASSWORD = "password";
+
+    /** Field FIRST_NAME */
     private static final String FIRST_NAME = "first_name";
+
+    /** Field LAST_NAME */
     private static final String LAST_NAME = "last_name";
+
+    /** Field PHONE_NUMBER */
     private static final String PHONE_NUMBER = "phone_number";
 
+    /** Field LOGGER */
     private static final Logger LOGGER = LogManager.getLogger(RegisterCommand.class);
+
+    /**
+     * Method execute
+     *
+     * @param request of type HttpServletRequest
+     * @return String
+     */
     @Override
     public String execute(HttpServletRequest request) {
         LOGGER.info("Register command.");
@@ -51,6 +70,7 @@ public class RegisterCommand implements Command {
             page = ConfigurationManager.getInstance().getProperty(ConfigurationManager.LOGIN_PAGE_PATH);
         }catch (TechnicalException e) {
             LOGGER.error("Something was wrong, redirect to error page.");
+            page = ConfigurationManager.getInstance().getProperty(ConfigurationManager.ERROR_PAGE_PATH);
         }
         return  page;
     }

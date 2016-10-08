@@ -8,9 +8,18 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.ParseException;
 
 /**
+ * Class DeletePurchaseFromBasketLogic
+ *
  * Created by 7 on 09.09.2016.
  */
 public class DeletePurchaseFromBasketLogic {
+
+    /**
+     * Method delete
+     *
+     * @param requestData of type String
+     * @throws TechnicalException
+     */
     public static void delete(String requestData) throws TechnicalException {
         JSONObject json = null;
         try {

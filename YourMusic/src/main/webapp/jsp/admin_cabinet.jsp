@@ -75,7 +75,7 @@
                                                     </div>
                                                     <div class="form-group">
                                                         <label for="price"><fmt:message key="label.price"/></label>
-                                                        <input id="price" type="text" name="price" class="form-control input" />
+                                                        <input id="price" type="text" name="price" class="form-control input" pattern="(^[1-9]{1}$)" title="Incorrect price" required  />
                                                     </div>
                                                     <br/>
                                                     <label class="btn btn-default btn-file">

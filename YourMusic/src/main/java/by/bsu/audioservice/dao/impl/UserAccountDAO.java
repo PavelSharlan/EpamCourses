@@ -19,42 +19,90 @@ import java.util.ArrayList;
 import java.util.Date;
 
 /**
- * Created by 7 on 10.08.2016.
+ * Class UserAccountDAO
+ *
+ * Created by 7 on 11.09.2016.
  */
 public class UserAccountDAO extends AbstractUserAccountDAO {
+    /** Field SQL_SELECT_ACCOUNT_BY_USER_ID */
     private static final String SQL_SELECT_ACCOUNT_BY_USER_ID = "SELECT acc.account_id, acc.balance, acc.creating_date," +
             " acc.end_date FROM accounts AS acc JOIN users ON acc.user_id = users.user_id WHERE users.user_id = ?;";
+
+    /** Field SQL_INSERT_USER_ACCOUNT */
     private static final String SQL_INSERT_USER_ACCOUNT = "INSERT INTO accounts (user_id, creating_date, balance)" +
             " VALUES (?, ?, ?);";
+
+    /** Field SQL_IS_ACCOUNT_HAS_AUDIO */
     private static final String SQL_IS_ACCOUNT_HAS_AUDIO = "SELECT id FROM account_has_audios WHERE account_id = ? AND audio_id = ?;";
+
+    /** Field SQL_USER_ADD_AUDIO */
     private static final String SQL_USER_ADD_AUDIO = "INSERT INTO account_has_audios (account_id, audio_id) VALUES(?, ?);";
+
+    /** Field SQL_UPDATE_BALANCE */
     private static final String SQL_UPDATE_BALANCE = "UPDATE accounts SET accounts.balance = ? WHERE accounts.account_id = ?;";
+
+    /** Field SQL_DELETE_AUDIO_FROM_USER_ACCOUNT */
     private static final String SQL_DELETE_AUDIO_FROM_USER_ACCOUNT = "DELETE FROM account_has_audios WHERE " +
             "account_id = ? AND audio_id = ?;";
+
+    /** Field SQL_SELECT_ALL_ACCOUNTS */
     private static final String SQL_SELECT_ALL_ACCOUNTS = "SELECT u.user_id, u.first_name, u.last_name, u.email, " +
             "u.password, u.phone_number, u.role, acc.account_id, acc.creating_date, " +
             "acc.end_date, acc.balance FROM users AS u JOIN accounts AS acc WHERE u.user_id = acc.user_id;";
+
+    /** Field SQL_BAN_ACCOUNT */
     private static final String SQL_BAN_ACCOUNT = "UPDATE accounts SET end_date = ? WHERE account_id = ?;";
+
+    /** Field SQL_UNBAN_ACCOUNT */
     private static final String SQL_UNBAN_ACCOUNT = "UPDATE accounts SET end_date = NULL where account_id = ?;";
 
+    /** Field ACCOUNT_ID */
     private static final String ACCOUNT_ID = "account_id";
+
+    /** Field BALANCE */
     private static final String BALANCE = "balance";
+
+    /** Field CREATING_DATE */
     private static final String CREATING_DATE = "creating_date";
+
+    /** Field END_DATE */
     private static final String END_DATE = "end_date";
+
+    /** Field USER_ID */
     private static final String USER_ID = "user_id";
+
+    /** Field FIRST_NAME */
     private static final String FIRST_NAME = "first_name";
+
+    /** Field LAST_NAME */
     private static final String LAST_NAME = "last_name";
+
+    /** Field EMAIL */
     private static final String EMAIL = "email";
+
+    /** Field PASSWORD */
     private static final String PASSWORD = "password";
+
+    /** Field PHONE_NUMBER */
     private static final String PHONE_NUMBER = "phone_number";
+
+    /** Field ROLE */
     private static final String ROLE = "role";
 
+    /** Field instance */
     private static UserAccountDAO instance = UserAccountDAO.getInstance();
 
-    private static final Logger LOGGER = LogManager.getLogger(UserAccountDAO.class);
+    /**
+     * Instantiates a new UserAccountDAO
+     */
     private UserAccountDAO(){
     }
 
+    /**
+     * Get instance user account dao.
+     *
+     * @return the user account dao
+     */
     public static UserAccountDAO getInstance(){
         if (instance == null){
             instance = new UserAccountDAO();
@@ -62,6 +110,13 @@ public class UserAccountDAO extends AbstractUserAccountDAO {
         return instance;
     }
 
+    /**
+     * Method findUserAccountByUserId
+     *
+     * @param id of type Long
+     * @return UserAccount
+     * @throws DAOException
+     */
     @Override
     public UserAccount findUserAccountByUserId(Long id) throws DAOException {
         UserAccount account = null;
@@ -85,6 +140,13 @@ public class UserAccountDAO extends AbstractUserAccountDAO {
         return account;
     }
 
+    /**
+     * Method addUserAccount
+     *
+     * @param account of type UserAccount
+     * @return boolean
+     * @throws DAOException
+     */
     @Override
     public boolean addUserAccount(UserAccount account) throws DAOException {
         boolean flag = false;
@@ -103,6 +165,14 @@ public class UserAccountDAO extends AbstractUserAccountDAO {
         return flag;
     }
 
+    /**
+     * Method isAccountHasAudio
+     *
+     * @param accountId of type Long
+     * @param audioId of type Long
+     * @return boolean
+     * @throws DAOException
+     */
     @Override
     public boolean isAccountHasAudio(Long accountId, Long audioId) throws DAOException {
         boolean flag = false;
@@ -120,6 +190,14 @@ public class UserAccountDAO extends AbstractUserAccountDAO {
         return flag;
     }
 
+    /**
+     * Method addAudio
+     *
+     * @param accountId of type Long
+     * @param audioId   of type Long
+     * @return boolean
+     * @throws DAOException
+     */
     @Override
     public boolean addAudio(Long accountId, Long audioId) throws DAOException {
         boolean flag = false;
@@ -135,6 +213,14 @@ public class UserAccountDAO extends AbstractUserAccountDAO {
         return flag;
     }
 
+    /**
+     * Method updateBalance
+     *
+     * @param accountId of type Long
+     * @param balance of type Float
+     * @return boolean
+     * @throws DAOException
+     */
     @Override
     public boolean updateBalance(Long accountId, Float balance) throws DAOException {
         boolean flag = false;
@@ -150,6 +236,14 @@ public class UserAccountDAO extends AbstractUserAccountDAO {
         return flag;
     }
 
+    /**
+     * Method deleteAudioFromUserAccount
+     *
+     * @param audioId of type Long
+     * @param accountId of type Long
+     * @return boolean
+     * @throws DAOException
+     */
     @Override
     public boolean deleteAudioFromUserAccount(Long audioId, Long accountId) throws DAOException {
         boolean flag = false;
@@ -165,6 +259,12 @@ public class UserAccountDAO extends AbstractUserAccountDAO {
         return flag;
     }
 
+    /**
+     * Method takeAllAccounts
+     *
+     * @return ArrayList<UserAccount>
+     * @throws DAOException
+     */
     @Override
     public ArrayList<UserAccount> takeAllAccounts() throws DAOException {
         ArrayList<UserAccount> accounts = new ArrayList<UserAccount>();
@@ -193,6 +293,13 @@ public class UserAccountDAO extends AbstractUserAccountDAO {
         return accounts;
     }
 
+    /**
+     * Method banAccount
+     *
+     * @param accountId of type Long
+     * @return boolean
+     * @throws DAOException
+     */
     @Override
     public boolean banAccount(Long accountId) throws DAOException {
         boolean flag = false;
@@ -210,6 +317,13 @@ public class UserAccountDAO extends AbstractUserAccountDAO {
         return flag;
     }
 
+    /**
+     * Method unbanAccount
+     *
+     * @param accountId of type Long
+     * @return boolean
+     * @throws DAOException
+     */
     @Override
     public boolean unbanAccount(Long accountId) throws DAOException {
         boolean flag = false;

@@ -1,6 +1,8 @@
-package by.bsu.audioservice.ajax.command;
+package by.bsu.audioservice.ajax.command.impl;
 
-import by.bsu.audioservice.ajax.logic.BuyAudiosLogic;
+
+import by.bsu.audioservice.ajax.command.Command;
+import by.bsu.audioservice.ajax.logic.AudioToBasketLogic;
 import by.bsu.audioservice.entity.UserAccount;
 import by.bsu.audioservice.exception.TechnicalException;
 import org.apache.logging.log4j.LogManager;
@@ -13,19 +15,36 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 /**
- * Created by 7 on 09.09.2016.
+ * Class AudioToBasketCommand
+ *
+ * Created by 7 on 06.09.2016.
  */
-public class BuyAudiosCommand implements Command {
+public class AudioToBasketCommand implements Command {
+    /** Field USER_ACCOUNT*/
     private static final String USER_ACCOUNT = "user_account";
-    private static final Logger LOGGER = LogManager.getLogger(BuyAudiosCommand.class);
+
+    /** Field AUDIO_ID */
+    private static final String AUDIO_ID = "audio-id";
+
+    /** Field LOGGER */
+    private static final Logger LOGGER = LogManager.getLogger(AudioToBasketCommand.class);
+
+    /**
+     * Method execute ...
+     *
+     * @param request of type HttpServletRequest
+     * @param response of type HttpServletResponse
+     * @param requestData of type String
+     * @throws IOException when
+     */
     @Override
     public void execute(HttpServletRequest request, HttpServletResponse response, String requestData) throws IOException {
-        LOGGER.info("Buy audios command");
+        LOGGER.info("Add audio to basket command");
         PrintWriter out = response.getWriter();
         JSONObject object = new JSONObject();
-        try {
+        try{
             UserAccount account = (UserAccount) request.getSession().getAttribute(USER_ACCOUNT);
-            BuyAudiosLogic.buy(account);
+            AudioToBasketLogic.add(requestData, account);
             out.println(object);
             response.setStatus(HttpServletResponse.SC_OK);
         } catch (TechnicalException e) {

@@ -1,5 +1,6 @@
 package by.bsu.audioservice.pool;
 
+import by.bsu.audioservice.manager.ConfigurationManager;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -12,22 +13,44 @@ import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
+/**
+ * Class ConnectionPool
+ *
+ * Created by 7 on 18.08.2016.
+ */
 public class ConnectionPool {
+    /** Field instance */
     private static ConnectionPool instance;
-    private BlockingDeque<ProxyConnection> connections;
-    private static AtomicBoolean isCreated = new AtomicBoolean(false);
-    private static Lock lock = new ReentrantLock();
-    private static String DRIVER = "com.mysql.jdbc.Driver";
-    private static String DB_ADDRESS = "jdbc:mysql://localhost:3306/audio_service";
-    private static String ADMIN = "root";
-    private static String PASSWORD = "password";
 
+    /** Field connections */
+    private BlockingDeque<ProxyConnection> connections;
+
+    /** Field isCreated */
+    private static AtomicBoolean isCreated = new AtomicBoolean(false);
+
+    /** Field lock */
+    private static Lock lock = new ReentrantLock();
+
+    /** Field LOGGER */
     private static final Logger LOGGER = LogManager.getLogger(ConnectionPool.class);
 
+    /** Field url */
     private String url;
+
+    /** Field login */
     private String login;
+
+    /** Field password */
     private String password;
 
+    /**
+     * Instantiates a new ConnectionPool
+     *
+     * @param url of type String
+     * @param login of type String
+     * @param password of type String
+     * @param connectionsCount of type String
+     */
     private ConnectionPool(String url, String login, String password, int connectionsCount){
         this.connections = new LinkedBlockingDeque<ProxyConnection>();
         this.url = url;
@@ -35,7 +58,8 @@ public class ConnectionPool {
         this.password = password;
 
         try {
-            Class.forName(DRIVER);
+            String driver = ConfigurationManager.getInstance().getProperty(ConfigurationManager.DRIVER);
+            Class.forName(driver);
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         }
@@ -45,6 +69,11 @@ public class ConnectionPool {
 
     }
 
+    /**
+     * Method createConnection
+     *
+     * @return ProxyConnection
+     */
     private ProxyConnection createConnection(){
         Connection connection = null;
         try {
@@ -55,6 +84,11 @@ public class ConnectionPool {
         return new ProxyConnection(connection);
     }
 
+    /**
+     * Take connection proxy connection.
+     *
+     * @return the proxy connection
+     */
     public ProxyConnection takeConnection(){
         ProxyConnection connection = null;
         try {
@@ -65,12 +99,21 @@ public class ConnectionPool {
         return connection;
     }
 
+    /**
+     * Get instance connection pool.
+     *
+     * @return the connection pool
+     */
     public static ConnectionPool getInstance(){
         if (!isCreated.get()){
             lock.lock();
             try {
                 if (instance == null) {
-                    instance = new ConnectionPool(DB_ADDRESS, ADMIN, PASSWORD, 5);
+                    String url = ConfigurationManager.getInstance().getProperty(ConfigurationManager.DB_ADDRESS);
+                    String admin = ConfigurationManager.getInstance().getProperty(ConfigurationManager.LOGIN);
+                    String password = ConfigurationManager.getInstance().getProperty(ConfigurationManager.PASSWORD);
+                    int poolSize = Integer.parseInt(ConfigurationManager.getInstance().getProperty(ConfigurationManager.POOL_SIZE));
+                    instance = new ConnectionPool(url, admin, password, poolSize);
                     isCreated.set(true);
                 }
             } finally {
@@ -80,10 +123,27 @@ public class ConnectionPool {
         return instance;
     }
 
+    /**
+     * Size int.
+     *
+     * @return the int
+     */
+    public int size() {
+        return connections.size();
+    }
+
+    /**
+     * Return connection.
+     *
+     * @param connection the connection
+     */
     public void returnConnection(ProxyConnection connection){
         connections.add(connection);
     }
 
+    /**
+     * Close pool.
+     */
     public void closePool(){
         while (!isEmpty()){
             try {
@@ -94,6 +154,11 @@ public class ConnectionPool {
         }
     }
 
+    /**
+     * Method isEmpty
+     *
+     * @return boolean
+     */
     private boolean isEmpty(){
         lock.lock();
         try{

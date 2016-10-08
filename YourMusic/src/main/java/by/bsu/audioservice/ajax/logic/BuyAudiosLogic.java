@@ -9,9 +9,19 @@ import by.bsu.audioservice.exception.TechnicalException;
 import java.util.ArrayList;
 
 /**
+ * Class BuyAudiosLogic
+ *
  * Created by 7 on 09.09.2016.
  */
 public class BuyAudiosLogic {
+
+    /**
+     * Method buy
+     *
+     * @param account of type UserAccount
+     * @return boolean
+     * @throws TechnicalException
+     */
     public static boolean buy(UserAccount account) throws TechnicalException {
         boolean flag = false;
         try {

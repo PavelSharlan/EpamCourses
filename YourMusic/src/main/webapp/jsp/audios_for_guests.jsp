@@ -40,11 +40,6 @@
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a href="#">
-                        <span class="glyphicon glyphicon-eye-open"></span>
-                    </a>
-                </li>
-                <li>
                     <form name="register-form" action="controller">
                         <input type="hidden" name="command" value="login_route">
                         <input type="submit" class="btn btn-primary" value="<fmt:message key="button.login"/>">

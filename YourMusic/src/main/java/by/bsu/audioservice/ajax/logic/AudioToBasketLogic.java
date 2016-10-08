@@ -13,9 +13,19 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.ParseException;
 
 /**
+ * Class AudioToBasketLogic
+ *
  * Created by 7 on 07.09.2016.
  */
 public class AudioToBasketLogic {
+
+    /**
+     * Method add
+     *
+     * @param requestData of type String
+     * @param account of type UserAccount
+     * @throws TechnicalException
+     */
     public static void add(String requestData, UserAccount account) throws TechnicalException {
         try {
             JSONObject object = JSONUtil.stringToJson(requestData);

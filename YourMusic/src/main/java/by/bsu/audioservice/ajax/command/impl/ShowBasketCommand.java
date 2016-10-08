@@ -1,8 +1,7 @@
-package by.bsu.audioservice.ajax.command;
+package by.bsu.audioservice.ajax.command.impl;
 
+import by.bsu.audioservice.ajax.command.Command;
 import by.bsu.audioservice.ajax.logic.ShowBasketLogic;
-import by.bsu.audioservice.entity.Basket;
-import by.bsu.audioservice.entity.User;
 import by.bsu.audioservice.entity.UserAccount;
 import by.bsu.audioservice.exception.TechnicalException;
 import org.apache.logging.log4j.LogManager;
@@ -15,17 +14,31 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 /**
+ * Class ShowBasketCommand
+ *
  * Created by 7 on 07.09.2016.
  */
 public class ShowBasketCommand implements Command {
-    private static final String USER = "user";
+    /** Field USER_ACCOUNT */
     private static final String USER_ACCOUNT = "user_account";
-    private static final String BASKET = "basket";
+
+    /** Field TEXT */
     private static final String TEXT = "text";
+
+    /** Field EMPTY_STRING */
     private static final String EMPTY_STRING = "";
 
+    /** Field LOGGER */
     private static final Logger LOGGER = LogManager.getLogger(ShowBasketCommand.class);
 
+    /**
+     * Method execute ...
+     *
+     * @param request of type HttpServletRequest
+     * @param response of type HttpServletResponse
+     * @param requestData of type String
+     * @throws IOException when
+     */
     @Override
     public void execute(HttpServletRequest request, HttpServletResponse response, String requestData) throws IOException{
         LOGGER.info("Show basket command");

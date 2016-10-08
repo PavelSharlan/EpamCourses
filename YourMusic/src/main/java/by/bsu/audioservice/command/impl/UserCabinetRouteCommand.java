@@ -13,16 +13,29 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.ArrayList;
 
 /**
+ * Class UserCabinetRouteCommand
+ *
  * Created by 7 on 21.08.2016.
  */
 public class UserCabinetRouteCommand implements Command {
+    /** Field USER_ACCOUNT */
     private static final String USER_ACCOUNT = "user_account";
+
+    /** Field USER_AUDIOS */
     private static final String USER_AUDIOS = "user_audios";
+
+    /** Field LOGGER */
     private static final Logger LOGGER = LogManager.getLogger(UserCabinetRouteCommand.class);
 
+    /**
+     * Method execute
+     *
+     * @param request of type HttpServletRequest
+     * @return String
+     */
     @Override
     public String execute(HttpServletRequest request) {
-        LOGGER.info("User cabinet route cabinet.");
+        LOGGER.info("User cabinet route command.");
         String page = null;
         try{
             UserAccount account = (UserAccount) request.getSession().getAttribute(USER_ACCOUNT);
@@ -31,6 +44,7 @@ public class UserCabinetRouteCommand implements Command {
             page = ConfigurationManager.getInstance().getProperty(ConfigurationManager.USER_CABINET_PAGE_PATH);
         } catch (TechnicalException e) {
             LOGGER.error("Something was wrong, redirect to error page.");
+            page = ConfigurationManager.getInstance().getProperty(ConfigurationManager.ERROR_PAGE_PATH);
         }
         return page;
     }

@@ -14,28 +14,60 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 
 /**
+ * Class OrderDAO
+ *
  * Created by 7 on 27.08.2016.
  */
 public class OrderDAO extends AbstractOrderDAO {
+    /** Field SQL_INSERT_ORDER */
     private static final String SQL_INSERT_ORDER = "INSERT INTO orders (singer, audio_name, user_login) VALUES (?, ?, ?);";
+
+    /** Field SQL_SELECT_ALL_ORDERS */
     private static final String SQL_SELECT_ALL_ORDERS = "SELECT order_id, singer, audio_name, user_login FROM audio_service.orders;";
+
+    /** Field SQL_DELETE_ORDER */
     private static final String SQL_DELETE_ORDER = "DELETE from orders WHERE orders.order_id = ?;";
+
+    /** Field ORDER_ID */
     private static final String ORDER_ID = "order_id";
+
+    /** Field SINGER */
     private static final String SINGER = "singer";
+
+    /** Field AUDIO_NAME */
     private static final String AUDIO_NAME = "audio_name";
+
+    /** Field USER_LOGIN */
     private static final String USER_LOGIN = "user_login";
+
+    /** Field instance */
     private static OrderDAO instance = OrderDAO.getInstance();
 
-    private static final Logger LOGGER = LogManager.getLogger(OrderDAO.class);
+    /**
+     * Instantiates a new OrderDAO
+     */
     private OrderDAO(){
     }
 
+    /**
+     * Method getInstance
+     *
+     * @return OrderDAO
+     */
     public static OrderDAO getInstance(){
         if (instance == null){
             instance = new OrderDAO();
         }
         return instance;
     }
+
+    /**
+     * Method makeOrder
+     *
+     * @param order of type Order
+     * @return boolean
+     * @throws DAOException
+     */
     @Override
     public boolean makeOrder(Order order) throws DAOException {
         boolean flag = false;
@@ -52,6 +84,12 @@ public class OrderDAO extends AbstractOrderDAO {
         return flag;
     }
 
+    /**
+     * Method getOrders
+     *
+     * @return ArrayList<Order>
+     * @throws DAOException
+     */
     @Override
     public ArrayList<Order> getOrders() throws DAOException {
         ArrayList<Order> orders = new ArrayList<Order>();
@@ -71,8 +109,15 @@ public class OrderDAO extends AbstractOrderDAO {
         return orders;
     }
 
+    /**
+     * Method deleteOrderById
+     *
+     * @param orderId of type Long
+     * @return boolean
+     * @throws DAOException
+     */
     @Override
-    public boolean deleteId(Long orderId) throws DAOException {
+    public boolean deleteOrderById(Long orderId) throws DAOException {
         boolean flag = false;
         try(ProxyConnection cn = ConnectionPool.getInstance().takeConnection();
         PreparedStatement st = cn.prepareStatement(SQL_DELETE_ORDER)) {

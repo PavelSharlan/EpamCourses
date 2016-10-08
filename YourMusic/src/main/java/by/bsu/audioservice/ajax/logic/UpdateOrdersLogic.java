@@ -12,7 +12,16 @@ import java.util.ArrayList;
  * Created by 7 on 06.09.2016.
  */
 public class UpdateOrdersLogic {
+
+    /** Field ORDERS */
     private static final String ORDERS = "orders";
+
+    /**
+     * Method updateOrders
+     *
+     * @return String
+     * @throws TechnicalException
+     */
     public static String updateOrders() throws TechnicalException {
         ArrayList<Order> orders = null;
         JSONObject object = null;

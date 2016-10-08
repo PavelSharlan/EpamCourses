@@ -11,10 +11,22 @@ import org.json.simple.JSONObject;
 import java.util.ArrayList;
 
 /**
+ * ShowBasketLogic
+ *
  * Created by 7 on 08.09.2016.
  */
 public class ShowBasketLogic {
+
+    /** Field PURCHASES */
     private static final String PURCHASES = "purchases";
+
+    /**
+     * Method show ...
+     *
+     * @param account of type UserAccount
+     * @return String
+     * @throws TechnicalException
+     */
     public static String show(UserAccount account) throws TechnicalException {
         Basket basket = null;
         JSONObject json = null;

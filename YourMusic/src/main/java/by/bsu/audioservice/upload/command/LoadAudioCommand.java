@@ -20,18 +20,43 @@ import java.util.Iterator;
 import java.util.List;
 
 /**
+ * Class LoadAudioCommand
+ *
  * Created by 7 on 02.09.2016.
  */
 public class LoadAudioCommand {
+    /** Field AUDIO */
     private static final String AUDIO = "audio";
+
+    /** Field AUDIOS */
     private static final String AUDIOS = "audios";
+
+    /** Field DEMO */
     private static final String DEMO = "demo";
+
+    /** Field AUDIO_NAME */
     private static final String AUDIO_NAME = "audio_name";
+
+    /** Field SINGER */
     private static final String SINGER = "singer";
+
+    /** Field GENRE */
     private static final String GENRE = "genre";
+
+    /** Field PRICE */
     private static final String PRICE = "price";
+
+    /** Field ERROR */
     private static final String ERROR = "error";
 
+    /** Field REQUIRED_AUDIO_INFO_AMOUNT */
+    private static final int REQUIRED_AUDIO_INFO_AMOUNT = 6;
+
+    /**
+     * Execute.
+     *
+     * @param request of type HttpServletRequest
+     */
     public void execute(HttpServletRequest request) {
         List<FileItem> items = null;
         String audioName = null;
@@ -42,7 +67,7 @@ public class LoadAudioCommand {
         String demoAudioUrl = null;
         try {
             items = new ServletFileUpload(new DiskFileItemFactory()).parseRequest(request);
-            if (items.size() == 5) {
+            if (items.size() == REQUIRED_AUDIO_INFO_AMOUNT) {
                 for (FileItem item : items) {
                     if (item.isFormField()) {
                         String fieldName = item.getFieldName();

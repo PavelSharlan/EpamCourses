@@ -14,17 +14,38 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.ArrayList;
 
 /**
+ * Class EditAudioInfoCommand
+ *
  * Created by 7 on 12.09.2016.
  */
 public class EditAudioInfoCommand implements Command {
+    /** Field ERROR */
     private static final String ERROR = "error";
+
+    /** Field AUDIO */
     private static final String AUDIO = "audio";
+
+    /** Field AUDIOS */
     private static final String AUDIOS = "audios";
+
+    /** Field AUDIO_NAME */
     private static final String AUDIO_NAME = "audio_name";
+
+    /** Field SINGER */
     private static final String SINGER = "singer";
+
+    /** Field PRICE */
     private static final String PRICE = "price";
-    private static final String GENRE = "genre";
+
+    /** Field LOGGER */
     private static final Logger LOGGER = LogManager.getLogger(EditAudioInfoCommand.class);
+
+    /**
+     * Method execute
+     *
+     * @param request of type HttpServletRequest
+     * @return String
+     */
     @Override
     public String execute(HttpServletRequest request) {
         LOGGER.info("Edit information about audio command");
@@ -45,6 +66,7 @@ public class EditAudioInfoCommand implements Command {
             page = ConfigurationManager.getInstance().getProperty(ConfigurationManager.AUDIO_INFO_PAGE_PATH);
         } catch (TechnicalException e) {
             LOGGER.error("Something was wrong, redirect to error page!", e);
+            page = ConfigurationManager.getInstance().getProperty(ConfigurationManager.ERROR_PAGE_PATH);
         }
         return page;
     }

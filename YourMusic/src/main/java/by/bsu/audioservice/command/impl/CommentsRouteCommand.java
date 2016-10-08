@@ -12,11 +12,24 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.ArrayList;
 
 /**
+ * Class CommentsRouteCommand
+ *
  * Created by 7 on 11.09.2016.
  */
 public class CommentsRouteCommand implements Command {
+
+    /** Field COMMENTS */
     private static final String COMMENTS = "comments";
+
+    /** Field LOGGER */
     private static final Logger LOGGER = LogManager.getLogger(CommentsRouteCommand.class);
+
+    /**
+     * Method execute
+     *
+     * @param request of type HttpServletRequest
+     * @return String
+     */
     @Override
     public String execute(HttpServletRequest request) {
         LOGGER.info("Comments route command");
@@ -27,6 +40,7 @@ public class CommentsRouteCommand implements Command {
             page = ConfigurationManager.getInstance().getProperty(ConfigurationManager.COMMENTS_PAGE_PATH);
         } catch (TechnicalException e) {
             LOGGER.error("Something was wrong, redirect to error page!", e);
+            page = ConfigurationManager.getInstance().getProperty(ConfigurationManager.ERROR_PAGE_PATH);
         }
          return page;
     }

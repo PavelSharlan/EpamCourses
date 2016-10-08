@@ -12,12 +12,23 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.ArrayList;
 
 /**
+ * Class ShowAllAudioCommand
+ *
  * Created by 7 on 21.08.2016.
  */
 public class ShowAllAudioCommand implements Command {
+    /** Field AUDIOS */
     private static final String AUDIOS = "audios";
 
+    /** Field LOGGER */
     private static final Logger LOGGER = LogManager.getLogger(ShowAllAudioCommand.class);
+
+    /**
+     * Method execute
+     *
+     * @param request of type HttpServletRequest
+     * @return String
+     */
     @Override
     public String execute(HttpServletRequest request) {
         LOGGER.info("Show all audio command.");
@@ -28,6 +39,7 @@ public class ShowAllAudioCommand implements Command {
             page = ConfigurationManager.getInstance().getProperty(ConfigurationManager.AUDIOS_FOR_REGISTERED_PAGE_PATH);
         } catch (TechnicalException e) {
             LOGGER.error("Something was wrong, redirect to error page.");
+            page = ConfigurationManager.getInstance().getProperty(ConfigurationManager.ERROR_PAGE_PATH);
         }
         return page;
     }

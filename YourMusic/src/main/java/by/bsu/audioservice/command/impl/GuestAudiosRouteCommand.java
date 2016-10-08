@@ -12,12 +12,23 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.ArrayList;
 
 /**
+ * Class GuestAudiosRouteCommand
+ *
  * Created by 7 on 19.08.2016.
  */
 public class GuestAudiosRouteCommand implements Command {
+    /** Field DEMO_AUDIOS */
     private static final String DEMO_AUDIOS = "demo_audios";
+
+    /** Field LOGGER */
     private static final Logger LOGGER = LogManager.getLogger(GuestAudiosRouteCommand.class);
 
+    /**
+     * Method execute
+     *
+     * @param request of type HttpServletRequest
+     * @return String
+     */
     @Override
     public String execute(HttpServletRequest request) {
         LOGGER.info("Guest audios route command!");
