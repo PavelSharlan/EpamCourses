@@ -1,0 +1,319 @@
+15:54:32.478 [main] INFO  by.bsu.logistics.main.Main - Start
+15:54:32.499 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van: 9353 is servicing by terminal №2. Van with LOADing aim
+15:54:32.500 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van: 4869 is servicing by terminal №3. Van with UNLOADing aim
+15:54:32.501 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van: 4678 is servicing by terminal №1. Van with LOADing aim
+15:54:32.502 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Van: 7022 is servicing by terminal №4. Van with UNLOADing aim
+15:54:32.760 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van: 190 is servicing by terminal №2. Van with LOADing aim
+15:54:33.181 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van: 9277 is servicing by terminal №3. Van with UNLOADing aim
+15:54:33.315 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van: 6353 is servicing by terminal №2. Van with LOADing aim
+15:54:33.318 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van: 7800 is servicing by terminal №1. Van with LOADing aim
+15:54:33.461 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Van: 8970 is servicing by terminal №4. Van with LOADing aim
+15:54:33.574 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van: 4575 is servicing by terminal №1. Van with LOADing aim
+15:54:33.846 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van: 2398 is servicing by terminal №3. Van with LOADing aim
+15:54:34.254 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van: 7066 is servicing by terminal №2. Van with UNLOADing aim
+15:54:34.383 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van: 1839 is servicing by terminal №1. Van with LOADing aim
+15:54:34.388 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Van: 2115 is servicing by terminal №4. Van with LOADing aim
+15:54:34.442 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van: 5500 is servicing by terminal №3. Van with UNLOADing aim
+15:54:34.550 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van: 187 is servicing by terminal №2. Van with LOADing aim
+15:54:34.826 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van: 2646 is servicing by terminal №2. Van with UNLOADing aim
+15:54:34.850 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Van: 4416 is servicing by terminal №4. Van with LOADing aim
+15:54:35.025 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van: 5141 is servicing by terminal №2. Van with UNLOADing aim
+15:54:35.137 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Van: 7651 is servicing by terminal №4. Van with UNLOADing aim
+15:54:35.173 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van: 9116 is servicing by terminal №3. Van with UNLOADing aim
+15:54:35.297 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van: 1777 is servicing by terminal №2. Van with LOADing aim
+15:54:35.431 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van: 7101 is servicing by terminal №1. Van with UNLOADing aim
+15:54:35.781 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van: 5410 is servicing by terminal №1. Van with LOADing aim
+15:54:35.825 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Van: 3392 is servicing by terminal №4. Van with LOADing aim
+15:54:35.866 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Van: 6709 is servicing by terminal №4. Van with LOADing aim
+15:54:35.997 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van: 5190 is servicing by terminal №2. Van with UNLOADing aim
+15:54:36.113 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van: 7254 is servicing by terminal №3. Van with LOADing aim
+15:54:36.232 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van: 1554 is servicing by terminal №1. Van with UNLOADing aim
+15:54:36.265 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van: 8116 is servicing by terminal №2. Van with LOADing aim
+15:54:36.350 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van: 2915 is servicing by terminal №2. Van with UNLOADing aim
+15:54:36.395 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van: 3906 is servicing by terminal №2. Van with LOADing aim
+15:54:36.567 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Van: 7493 is servicing by terminal №4. Van with LOADing aim
+15:54:36.597 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van: 9548 is servicing by terminal №3. Van with LOADing aim
+15:54:36.807 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Van: 747 is servicing by terminal №4. Van with LOADing aim
+15:54:36.814 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van: 7490 is servicing by terminal №3. Van with LOADing aim
+15:54:36.832 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van: 2397 is servicing by terminal №3. Van with UNLOADing aim
+15:54:36.968 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van: 6052 is servicing by terminal №2. Van with LOADing aim
+15:54:37.207 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van: 4407 is servicing by terminal №1. Van with UNLOADing aim
+15:54:37.229 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van: 6229 is servicing by terminal №1. Van with LOADing aim
+15:54:37.352 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van: 447 is servicing by terminal №1. Van with LOADing aim
+15:54:37.384 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van: 4108 is servicing by terminal №1. Van with UNLOADing aim
+15:54:37.389 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van: 7897 is servicing by terminal №2. Van with LOADing aim
+15:54:37.686 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van: 9752 is servicing by terminal №3. Van with LOADing aim
+15:54:37.691 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Van: 4770 is servicing by terminal №4. Van with LOADing aim
+15:54:38.022 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van: 8700 is servicing by terminal №1. Van with LOADing aim
+15:54:38.027 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Van: 968 is servicing by terminal №4. Van with LOADing aim
+15:54:38.128 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van: 8732 is servicing by terminal №2. Van with LOADing aim
+15:54:38.151 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van: 5138 is servicing by terminal №2. Van with LOADing aim
+15:54:38.340 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van: 4537 is servicing by terminal №3. Van with UNLOADing aim
+16:18:53.581 [main] INFO  by.bsu.logistics.main.Main - Start
+16:18:53.588 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van: 6134 is servicing by terminal №1. Van with UNLOADing aim
+16:18:53.589 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van: 5439 is servicing by terminal №2. Van with UNLOADing aim
+16:18:53.589 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van: 829 is servicing by terminal №3. Van with UNLOADing aim
+16:18:53.589 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Van: 5634 is servicing by terminal №4. Van with UNLOADing aim
+16:18:54.094 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Van: 8911 is servicing by terminal №4. Van with LOADing aim
+16:18:54.314 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van: 1845 is servicing by terminal №3. Van with LOADing aim
+16:18:54.352 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van: 546 is servicing by terminal №2. Van with UNLOADing aim
+16:18:54.444 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van: 7809 is servicing by terminal №1. Van with LOADing aim
+16:18:54.539 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van: 8311 is servicing by terminal №3. Van with LOADing aim
+16:18:54.554 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Van: 7586 is servicing by terminal №4. Van with LOADing aim
+16:18:54.689 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van: 4131 is servicing by terminal №2. Van with LOADing aim
+17:11:08.334 [main] INFO  by.bsu.logistics.main.Main - Start
+17:11:08.359 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 4352is servicing by terminal № 1
+17:11:08.360 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 5134обслуживается терминалом № 2
+17:11:08.361 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 5610обслуживается терминалом № 4
+17:11:08.361 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 5896is servicing by terminal № 3
+17:11:08.409 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 6722обслуживается терминалом № 2
+17:11:08.481 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 1059is servicing by terminal № 3
+17:11:08.619 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 7534обслуживается терминалом № 4
+17:11:08.822 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 2374is servicing by terminal № 3
+17:11:09.005 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 8332is servicing by terminal № 1
+17:11:09.223 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 4816обслуживается терминалом № 2
+17:11:09.420 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 7802обслуживается терминалом № 4
+17:11:09.715 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 9037is servicing by terminal № 3
+17:11:09.898 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 3373is servicing by terminal № 3
+17:11:10.001 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 2847is servicing by terminal № 1
+17:11:10.017 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 4586обслуживается терминалом № 2
+17:11:10.297 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 9897обслуживается терминалом № 4
+17:11:10.412 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 6543is servicing by terminal № 1
+17:11:10.420 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 8490is servicing by terminal № 3
+17:11:10.426 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 8462обслуживается терминалом № 2
+17:11:10.489 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 5966is servicing by terminal № 1
+17:11:10.508 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 9022обслуживается терминалом № 2
+17:11:10.653 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 2222обслуживается терминалом № 4
+17:11:10.782 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 977обслуживается терминалом № 2
+17:11:10.866 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 9387is servicing by terminal № 3
+17:11:11.221 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 9651is servicing by terminal № 3
+17:11:11.433 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 7731is servicing by terminal № 1
+17:11:11.478 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 7131обслуживается терминалом № 4
+17:11:11.540 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 1604обслуживается терминалом № 2
+17:11:11.721 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 6353обслуживается терминалом № 2
+17:11:11.729 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 721is servicing by terminal № 3
+17:11:11.809 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 3361is servicing by terminal № 1
+17:11:12.032 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 9709is servicing by terminal № 3
+17:11:12.220 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 6901обслуживается терминалом № 2
+17:11:12.351 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 6932обслуживается терминалом № 4
+17:11:12.417 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 2307is servicing by terminal № 1
+17:11:12.500 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 7449is servicing by terminal № 3
+17:11:12.596 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 1969is servicing by terminal № 1
+17:11:12.624 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 6611обслуживается терминалом № 4
+17:11:12.715 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 2134is servicing by terminal № 3
+17:11:12.832 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 9174is servicing by terminal № 1
+17:11:12.986 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 3286обслуживается терминалом № 2
+17:11:13.498 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 3033обслуживается терминалом № 4
+17:11:13.518 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 9355is servicing by terminal № 3
+17:11:13.534 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 309is servicing by terminal № 1
+17:11:13.725 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 6736обслуживается терминалом № 2
+17:11:13.824 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 5270обслуживается терминалом № 4
+17:11:13.940 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 4256is servicing by terminal № 1
+17:11:14.005 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 5100is servicing by terminal № 3
+17:11:14.040 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 4047обслуживается терминалом № 2
+17:11:14.097 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 9716обслуживается терминалом № 4
+17:12:17.633 [main] INFO  by.bsu.logistics.main.Main - Start
+17:12:17.659 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 2670 is servicing by terminal № 1
+17:12:17.660 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 5848 обслуживается терминалом № 2
+17:12:17.661 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 2587 is servicing by terminal № 3
+17:12:17.661 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 9404 обслуживается терминалом № 4
+17:12:17.955 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 2929 обслуживается терминалом № 2
+17:12:18.098 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 1963 is servicing by terminal № 3
+17:12:18.241 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 9440 обслуживается терминалом № 2
+17:12:18.335 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 3181 обслуживается терминалом № 2
+17:12:18.401 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 744 is servicing by terminal № 3
+17:12:18.464 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 8411 обслуживается терминалом № 2
+17:12:18.626 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 3619 is servicing by terminal № 1
+17:12:18.654 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 6890 обслуживается терминалом № 4
+17:12:18.792 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 8247 is servicing by terminal № 1
+17:12:19.008 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 6910 обслуживается терминалом № 2
+17:12:19.291 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 7002 обслуживается терминалом № 4
+17:12:19.315 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 4642 is servicing by terminal № 3
+17:12:19.400 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 2146 is servicing by terminal № 1
+17:12:19.602 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 702 обслуживается терминалом № 4
+17:12:19.684 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 771 is servicing by terminal № 3
+17:12:20.000 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 5560 обслуживается терминалом № 2
+17:12:20.105 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 3728 обслуживается терминалом № 4
+17:12:20.355 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 9333 is servicing by terminal № 1
+17:12:20.508 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 250 is servicing by terminal № 1
+17:12:20.510 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 6223 is servicing by terminal № 3
+17:12:20.692 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 5764 is servicing by terminal № 3
+17:12:20.753 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 7979 обслуживается терминалом № 4
+17:12:20.819 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 2768 is servicing by terminal № 1
+17:12:20.833 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 4616 обслуживается терминалом № 2
+17:12:20.845 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 5569 is servicing by terminal № 1
+17:12:21.171 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 8232 обслуживается терминалом № 4
+17:12:21.248 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 1470 обслуживается терминалом № 2
+17:12:21.301 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 4102 is servicing by terminal № 1
+17:12:21.636 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 6110 is servicing by terminal № 3
+17:12:21.660 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 512 обслуживается терминалом № 4
+17:12:21.887 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 6769 is servicing by terminal № 1
+17:12:22.025 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 4454 обслуживается терминалом № 2
+17:12:22.058 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 4440 обслуживается терминалом № 4
+17:12:22.264 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 479 is servicing by terminal № 1
+17:12:22.534 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 1701 is servicing by terminal № 3
+17:12:22.908 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 4538 обслуживается терминалом № 4
+17:12:23.007 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 7952 обслуживается терминалом № 2
+17:12:23.157 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 4405 is servicing by terminal № 3
+17:12:23.159 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 4334 is servicing by terminal № 1
+17:12:23.310 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 267 обслуживается терминалом № 4
+17:12:23.583 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 7055 is servicing by terminal № 3
+17:12:23.728 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 3344 is servicing by terminal № 1
+17:12:23.894 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 570 обслуживается терминалом № 2
+17:12:24.300 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 6531 обслуживается терминалом № 4
+17:12:24.577 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 1597 is servicing by terminal № 3
+17:12:24.596 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 1389 is servicing by terminal № 3
+17:21:01.610 [main] INFO  by.bsu.logistics.main.Main - Start
+17:25:26.579 [main] INFO  by.bsu.logistics.main.Main - Start
+17:25:26.610 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 5222 is servicing by terminal № 1
+17:25:26.611 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 2066 обслуживается терминалом № 2
+17:25:26.611 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 5831 is servicing by terminal № 3
+17:25:26.612 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 8131 обслуживается терминалом № 4
+17:25:26.673 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 7679 обслуживается терминалом № 2
+17:25:26.677 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 9370 обслуживается терминалом № 2
+17:25:26.682 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 9357 обслуживается терминалом № 4
+17:25:27.135 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 2104 обслуживается терминалом № 2
+17:25:27.265 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 9364 is servicing by terminal № 3
+17:25:27.309 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 6737 is servicing by terminal № 3
+17:25:27.601 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 6605 is servicing by terminal № 1
+17:25:27.601 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 6152 обслуживается терминалом № 4
+17:25:27.772 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 2017 is servicing by terminal № 3
+17:25:27.880 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 2437 is servicing by terminal № 1
+17:25:27.940 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 2072 обслуживается терминалом № 2
+17:25:28.003 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 411 is servicing by terminal № 1
+17:25:28.024 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 1422 is servicing by terminal № 3
+17:25:28.034 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 334 is servicing by terminal № 1
+17:25:28.127 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 6483 is servicing by terminal № 1
+17:25:28.185 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 5616 обслуживается терминалом № 4
+17:25:28.221 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 6306 is servicing by terminal № 3
+17:25:28.364 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 8526 обслуживается терминалом № 4
+17:25:28.494 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 9008 is servicing by terminal № 3
+17:25:28.697 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 7716 is servicing by terminal № 3
+17:25:28.711 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 7397 обслуживается терминалом № 2
+17:25:28.924 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 2256 обслуживается терминалом № 4
+17:25:28.926 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 2 обслуживается терминалом № 4
+17:25:28.964 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 838 is servicing by terminal № 1
+17:25:29.342 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 8792 обслуживается терминалом № 2
+17:25:29.442 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 2694 is servicing by terminal № 3
+17:25:29.445 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 5296 is servicing by terminal № 3
+17:25:29.562 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 6696 is servicing by terminal № 1
+17:25:29.766 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 7309 is servicing by terminal № 3
+17:25:29.784 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 1717 обслуживается терминалом № 4
+17:25:29.785 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 4382 is servicing by terminal № 3
+17:25:29.786 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 8328 обслуживается терминалом № 2
+17:25:29.926 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 8557 обслуживается терминалом № 2
+17:25:30.011 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 5333 is servicing by terminal № 1
+17:25:30.139 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 6522 обслуживается терминалом № 2
+17:25:30.443 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 2834 обслуживается терминалом № 4
+17:25:30.525 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 3235 is servicing by terminal № 3
+17:25:30.701 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 1078 is servicing by terminal № 1
+17:25:30.728 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 7671 is servicing by terminal № 3
+17:25:30.803 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 6350 обслуживается терминалом № 2
+17:25:30.899 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Фургон 8920 обслуживается терминалом № 2
+17:25:30.929 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 2956 обслуживается терминалом № 4
+17:25:31.173 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 3970 is servicing by terminal № 1
+17:25:31.578 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 3481 обслуживается терминалом № 4
+17:25:31.585 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 2046 is servicing by terminal № 3
+17:25:31.748 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 549 обслуживается терминалом № 4
+23:32:37.245 [main] INFO  by.bsu.logistics.main.Main - Start
+23:32:37.273 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 1061 is servicing by terminal № 1
+23:32:37.273 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van 5925 is servicing by terminal № 2
+23:32:37.275 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Фургон 8133 обслуживается терминалом № 3
+23:32:37.276 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 4733 обслуживается терминалом № 4
+23:32:37.728 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Фургон 6300 обслуживается терминалом № 3
+23:32:37.739 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Фургон 9585 обслуживается терминалом № 3
+23:32:37.739 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 1105 is servicing by terminal № 1
+23:32:37.934 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 7976 is servicing by terminal № 1
+23:32:38.001 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van 5053 is servicing by terminal № 2
+23:32:38.018 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 5614 обслуживается терминалом № 4
+23:32:38.327 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Фургон 4759 обслуживается терминалом № 3
+23:32:38.589 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 6181 is servicing by terminal № 1
+23:32:38.617 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van 7999 is servicing by terminal № 2
+23:32:38.926 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 7271 обслуживается терминалом № 4
+23:32:38.958 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 3452 is servicing by terminal № 1
+23:32:39.291 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Фургон 3383 обслуживается терминалом № 3
+23:32:39.562 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van 9360 is servicing by terminal № 2
+23:32:39.667 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 1427 is servicing by terminal № 1
+23:32:39.671 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 2824 обслуживается терминалом № 4
+23:32:39.858 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Фургон 8079 обслуживается терминалом № 3
+23:32:39.987 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 8745 is servicing by terminal № 1
+23:32:40.365 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van 2611 is servicing by terminal № 2
+23:32:40.541 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van 3623 is servicing by terminal № 2
+23:32:40.552 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Фургон 2048 обслуживается терминалом № 3
+23:32:40.578 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 6081 обслуживается терминалом № 4
+23:32:40.906 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 2219 is servicing by terminal № 1
+23:32:41.025 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Фургон 4302 обслуживается терминалом № 3
+23:32:41.089 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 292 обслуживается терминалом № 4
+23:32:41.157 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van 1124 is servicing by terminal № 2
+23:32:41.457 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 1947 обслуживается терминалом № 4
+23:32:41.463 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 1045 обслуживается терминалом № 4
+23:32:41.682 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Фургон 7253 обслуживается терминалом № 3
+23:32:41.762 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 942 обслуживается терминалом № 4
+23:32:41.822 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van 495 is servicing by terminal № 2
+23:32:41.850 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 6972 is servicing by terminal № 1
+23:32:42.143 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van 9732 is servicing by terminal № 2
+23:32:42.457 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 4744 is servicing by terminal № 1
+23:32:42.579 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Фургон 5999 обслуживается терминалом № 3
+23:32:42.639 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van 1758 is servicing by terminal № 2
+23:32:42.645 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 531 обслуживается терминалом № 4
+23:32:42.764 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 2794 is servicing by terminal № 1
+23:32:42.844 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Фургон 605 обслуживается терминалом № 3
+23:32:42.927 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van 1672 is servicing by terminal № 2
+23:32:43.123 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 1741 обслуживается терминалом № 4
+23:32:43.415 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Фургон 8584 обслуживается терминалом № 3
+23:32:43.447 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van 681 is servicing by terminal № 2
+23:32:43.474 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van 9824 is servicing by terminal № 2
+23:32:43.505 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 6267 is servicing by terminal № 1
+23:32:43.561 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Фургон 6034 обслуживается терминалом № 3
+23:32:43.608 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Van 1242 is servicing by terminal № 1
+23:52:40.419 [main] INFO  by.bsu.logistics.main.Main - Start
+23:52:40.447 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Фургон 8817 обслуживается терминалом № 1
+23:52:40.448 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van 716 is servicing by terminal № 2
+23:52:40.449 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 1630 is servicing by terminal № 3
+23:52:40.449 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 8246 обслуживается терминалом № 4
+23:52:40.484 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 452 обслуживается терминалом № 4
+23:52:40.873 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Фургон 3856 обслуживается терминалом № 1
+23:52:41.128 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 9350 is servicing by terminal № 3
+23:52:41.228 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van 9088 is servicing by terminal № 2
+23:52:41.327 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 4533 обслуживается терминалом № 4
+23:52:41.515 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van 9363 is servicing by terminal № 2
+23:52:41.784 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 1585 обслуживается терминалом № 4
+23:52:41.841 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Фургон 1997 обслуживается терминалом № 1
+23:52:42.121 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 6609 is servicing by terminal № 3
+23:52:42.427 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van 9233 is servicing by terminal № 2
+23:52:42.488 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Фургон 9038 обслуживается терминалом № 1
+23:52:42.669 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 8873 обслуживается терминалом № 4
+23:52:42.671 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Фургон 6467 обслуживается терминалом № 1
+23:52:42.862 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 4243 is servicing by terminal № 3
+23:52:42.948 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Фургон 6728 обслуживается терминалом № 1
+23:52:43.352 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Фургон 5683 обслуживается терминалом № 1
+23:52:43.360 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 4077 is servicing by terminal № 3
+23:52:43.379 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van 9576 is servicing by terminal № 2
+23:52:43.412 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Фургон 1991 обслуживается терминалом № 1
+23:52:43.599 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 3375 обслуживается терминалом № 4
+23:52:44.037 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 6990 is servicing by terminal № 3
+23:52:44.162 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van 6815 is servicing by terminal № 2
+23:52:44.182 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Фургон 3526 обслуживается терминалом № 1
+23:52:44.348 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Фургон 917 обслуживается терминалом № 1
+23:52:44.444 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 8402 обслуживается терминалом № 4
+23:52:44.466 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 5518 обслуживается терминалом № 4
+23:52:44.641 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 373 is servicing by terminal № 3
+23:52:44.704 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van 7535 is servicing by terminal № 2
+23:52:44.834 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Фургон 4179 обслуживается терминалом № 1
+23:52:44.854 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Фургон 1241 обслуживается терминалом № 1
+23:52:45.237 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 4564 обслуживается терминалом № 4
+23:52:45.238 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van 8110 is servicing by terminal № 2
+23:52:45.356 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 1660 is servicing by terminal № 3
+23:52:45.393 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Фургон 230 обслуживается терминалом № 1
+23:52:45.538 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 6510 is servicing by terminal № 3
+23:52:45.638 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van 1261 is servicing by terminal № 2
+23:52:45.653 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 9578 обслуживается терминалом № 4
+23:52:45.899 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 9780 is servicing by terminal № 3
+23:52:45.964 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 9903 обслуживается терминалом № 4
+23:52:45.979 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Фургон 4083 обслуживается терминалом № 1
+23:52:46.034 [Thread-1] INFO  by.bsu.logistics.entity.Terminal - Фургон 1151 обслуживается терминалом № 1
+23:52:46.252 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 7960 обслуживается терминалом № 4
+23:52:46.315 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 8576 is servicing by terminal № 3
+23:52:46.446 [Thread-2] INFO  by.bsu.logistics.entity.Terminal - Van 9150 is servicing by terminal № 2
+23:52:46.475 [Thread-3] INFO  by.bsu.logistics.entity.Terminal - Van 659 is servicing by terminal № 3
+23:52:46.969 [Thread-4] INFO  by.bsu.logistics.entity.Terminal - Фургон 134 обслуживается терминалом № 4
