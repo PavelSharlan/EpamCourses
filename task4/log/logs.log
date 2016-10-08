@@ -1,0 +1,12 @@
+18:09:16.726 [main] INFO  by.bsu.infhandling.reporter.FileReporter - Start parsing
+18:09:16.752 [main] INFO  by.bsu.infhandling.reporter.FileReporter - Text has been parsed
+18:09:16.774 [main] INFO  by.bsu.infhandling.reporter.FileReporter - Task №4 has done!
+18:09:16.780 [main] INFO  by.bsu.infhandling.reporter.FileReporter - Task №8 has done!
+18:41:30.338 [main] INFO  by.bsu.infhandling.reporter.FileReporter - Start parsing
+18:41:30.363 [main] INFO  by.bsu.infhandling.reporter.FileReporter - Text has been parsed
+18:41:30.384 [main] INFO  by.bsu.infhandling.reporter.FileReporter - Task №4 has done!
+18:41:30.390 [main] INFO  by.bsu.infhandling.reporter.FileReporter - Task №8 has done!
+18:44:29.150 [main] INFO  by.bsu.infhandling.reporter.FileReporter - Start parsing
+18:44:29.177 [main] INFO  by.bsu.infhandling.reporter.FileReporter - Text has been parsed
+18:44:29.192 [main] INFO  by.bsu.infhandling.reporter.FileReporter - Task №4 has done!
+18:44:29.198 [main] INFO  by.bsu.infhandling.reporter.FileReporter - Task №8 has done!
