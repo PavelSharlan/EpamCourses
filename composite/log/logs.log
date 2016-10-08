@@ -1,0 +1,1171 @@
+19:11:33.867 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 300
+19:11:33.869 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 295
+19:11:33.869 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 306
+19:11:33.869 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 250
+19:11:33.870 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 350
+19:11:33.870 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.870 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 285
+19:11:33.870 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 295
+19:11:33.870 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 306
+19:11:33.870 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 226
+19:11:33.870 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 350
+19:11:33.871 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.871 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 285
+19:11:33.871 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 287
+19:11:33.871 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 306
+19:11:33.871 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 202
+19:11:33.871 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 350
+19:11:33.871 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.871 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 285
+19:11:33.871 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 272
+19:11:33.872 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 306
+19:11:33.872 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 202
+19:11:33.872 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 326
+19:11:33.872 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.872 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 277
+19:11:33.872 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 272
+19:11:33.872 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 306
+19:11:33.872 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 202
+19:11:33.873 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 302
+19:11:33.873 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.873 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 277
+19:11:33.873 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 257
+19:11:33.873 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 306
+19:11:33.873 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 178
+19:11:33.873 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 302
+19:11:33.873 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.873 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 277
+19:11:33.874 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 252
+19:11:33.874 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 306
+19:11:33.874 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 154
+19:11:33.874 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 302
+19:11:33.874 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.874 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 277
+19:11:33.874 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 237
+19:11:33.874 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 282
+19:11:33.874 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 154
+19:11:33.874 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 302
+19:11:33.874 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.875 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 269
+19:11:33.875 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 237
+19:11:33.875 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 258
+19:11:33.875 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 154
+19:11:33.875 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 302
+19:11:33.875 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.875 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 269
+19:11:33.875 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 232
+19:11:33.875 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 258
+19:11:33.875 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 154
+19:11:33.876 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 278
+19:11:33.876 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.876 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 269
+19:11:33.876 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 217
+19:11:33.876 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 234
+19:11:33.876 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 154
+19:11:33.876 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 278
+19:11:33.876 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.876 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 261
+19:11:33.876 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 217
+19:11:33.877 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 210
+19:11:33.877 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 154
+19:11:33.877 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 278
+19:11:33.877 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.877 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 253
+19:11:33.877 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 217
+19:11:33.879 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 210
+19:11:33.879 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 154
+19:11:33.879 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:11:33.879 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.879 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 245
+19:11:33.879 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 217
+19:11:33.879 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 186
+19:11:33.879 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 154
+19:11:33.879 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:11:33.879 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.879 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 237
+19:11:33.880 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 217
+19:11:33.880 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 186
+19:11:33.880 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 130
+19:11:33.880 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:11:33.880 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.880 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 229
+19:11:33.880 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 217
+19:11:33.880 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 186
+19:11:33.880 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 106
+19:11:33.880 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:11:33.881 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.881 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 214
+19:11:33.881 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 217
+19:11:33.881 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 162
+19:11:33.881 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 106
+19:11:33.881 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:11:33.881 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.881 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 199
+19:11:33.881 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 217
+19:11:33.882 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 138
+19:11:33.882 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 106
+19:11:33.882 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:11:33.882 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.882 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 199
+19:11:33.882 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 202
+19:11:33.882 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 138
+19:11:33.882 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 106
+19:11:33.882 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 230
+19:11:33.882 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.882 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 194
+19:11:33.883 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 202
+19:11:33.883 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 114
+19:11:33.883 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 106
+19:11:33.883 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 230
+19:11:33.883 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.883 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 189
+19:11:33.883 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 202
+19:11:33.883 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 90
+19:11:33.883 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 106
+19:11:33.883 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 230
+19:11:33.883 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.883 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 181
+19:11:33.883 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 202
+19:11:33.884 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 66
+19:11:33.884 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 106
+19:11:33.884 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 230
+19:11:33.884 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.884 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 166
+19:11:33.884 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 202
+19:11:33.884 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 66
+19:11:33.884 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 106
+19:11:33.884 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:11:33.884 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.884 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 151
+19:11:33.884 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 202
+19:11:33.884 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 66
+19:11:33.884 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 82
+19:11:33.885 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:11:33.885 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.885 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 151
+19:11:33.885 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 194
+19:11:33.885 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 66
+19:11:33.885 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 58
+19:11:33.885 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:11:33.885 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.885 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 146
+19:11:33.885 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 194
+19:11:33.885 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 42
+19:11:33.885 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 58
+19:11:33.885 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:11:33.885 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.885 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 146
+19:11:33.885 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 189
+19:11:33.885 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 42
+19:11:33.886 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 34
+19:11:33.886 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:11:33.886 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.886 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 146
+19:11:33.886 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 184
+19:11:33.886 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 42
+19:11:33.886 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 10
+19:11:33.886 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:11:33.886 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.886 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 131
+19:11:33.886 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 184
+19:11:33.886 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 42
+19:11:33.886 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:11:33.886 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.886 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 131
+19:11:33.887 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 169
+19:11:33.887 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 42
+19:11:33.887 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 182
+19:11:33.887 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.887 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 131
+19:11:33.887 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 164
+19:11:33.887 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 18
+19:11:33.887 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 182
+19:11:33.887 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.887 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 131
+19:11:33.888 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 159
+19:11:33.888 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 182
+19:11:33.888 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.888 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 126
+19:11:33.888 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 159
+19:11:33.888 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 158
+19:11:33.888 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.888 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 121
+19:11:33.888 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 159
+19:11:33.888 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 134
+19:11:33.888 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.888 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 116
+19:11:33.889 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 159
+19:11:33.889 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 110
+19:11:33.889 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.889 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 116
+19:11:33.889 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 154
+19:11:33.889 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 86
+19:11:33.889 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.889 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 116
+19:11:33.889 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 149
+19:11:33.889 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 62
+19:11:33.889 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.889 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 116
+19:11:33.890 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 144
+19:11:33.890 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 38
+19:11:33.890 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.890 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 111
+19:11:33.890 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 144
+19:11:33.890 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 14
+19:11:33.890 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:11:33.890 [main] ERROR by.bsu.composite.main.Main - There are no alive warriors in any army!
+by.bsu.composite.exception.NoAliveWarriorException
+	at by.bsu.composite.chooser.RandomChooser.componentChoose(RandomChooser.java:15) ~[composite/:?]
+	at by.bsu.composite.component.Army.attack(Army.java:26) ~[composite/:?]
+	at by.bsu.composite.war.ClanWar.startWar(ClanWar.java:24) ~[composite/:?]
+	at by.bsu.composite.main.Main.main(Main.java:40) [composite/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_05]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
+19:12:53.463 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 285
+19:12:53.464 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 300
+19:12:53.465 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 330
+19:12:53.465 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 250
+19:12:53.465 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 326
+19:12:53.465 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.465 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 270
+19:12:53.465 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 300
+19:12:53.466 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 330
+19:12:53.466 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 226
+19:12:53.466 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 326
+19:12:53.466 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.466 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 262
+19:12:53.466 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 300
+19:12:53.466 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 330
+19:12:53.466 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 226
+19:12:53.466 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 302
+19:12:53.466 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.466 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 257
+19:12:53.466 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 300
+19:12:53.466 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 330
+19:12:53.467 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 202
+19:12:53.467 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 302
+19:12:53.467 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.467 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 249
+19:12:53.467 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 300
+19:12:53.467 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 330
+19:12:53.467 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 178
+19:12:53.467 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 302
+19:12:53.467 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.468 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 234
+19:12:53.468 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 300
+19:12:53.468 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 330
+19:12:53.468 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 154
+19:12:53.468 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 302
+19:12:53.468 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.468 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 219
+19:12:53.468 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 300
+19:12:53.469 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 330
+19:12:53.469 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 154
+19:12:53.469 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 278
+19:12:53.469 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.469 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 214
+19:12:53.469 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 300
+19:12:53.469 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 330
+19:12:53.469 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 154
+19:12:53.470 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:12:53.470 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.470 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 214
+19:12:53.470 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 285
+19:12:53.470 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 330
+19:12:53.470 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 130
+19:12:53.470 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:12:53.470 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.470 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 214
+19:12:53.471 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 280
+19:12:53.471 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 330
+19:12:53.471 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 106
+19:12:53.471 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:12:53.471 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.471 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 209
+19:12:53.471 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 280
+19:12:53.471 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 330
+19:12:53.471 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 82
+19:12:53.471 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:12:53.471 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.471 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 201
+19:12:53.472 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 280
+19:12:53.472 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 306
+19:12:53.472 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 82
+19:12:53.472 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:12:53.472 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.472 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 201
+19:12:53.472 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 275
+19:12:53.472 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 306
+19:12:53.472 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 58
+19:12:53.472 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:12:53.472 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.472 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 186
+19:12:53.472 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 275
+19:12:53.472 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 282
+19:12:53.472 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 58
+19:12:53.473 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:12:53.473 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.473 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 171
+19:12:53.473 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 275
+19:12:53.473 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 282
+19:12:53.473 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 58
+19:12:53.473 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 230
+19:12:53.473 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.474 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 171
+19:12:53.474 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 267
+19:12:53.474 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 258
+19:12:53.474 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 58
+19:12:53.474 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 230
+19:12:53.474 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.474 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 171
+19:12:53.474 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 262
+19:12:53.474 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 258
+19:12:53.474 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 34
+19:12:53.474 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 230
+19:12:53.474 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.474 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 171
+19:12:53.475 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 247
+19:12:53.475 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 234
+19:12:53.475 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 34
+19:12:53.475 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 230
+19:12:53.475 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.475 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 156
+19:12:53.475 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 247
+19:12:53.475 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 234
+19:12:53.475 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 34
+19:12:53.475 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:12:53.475 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.475 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 151
+19:12:53.475 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 247
+19:12:53.475 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 234
+19:12:53.475 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 10
+19:12:53.476 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:12:53.476 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.476 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 136
+19:12:53.476 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 247
+19:12:53.476 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 234
+19:12:53.476 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:12:53.476 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.476 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 136
+19:12:53.476 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 232
+19:12:53.476 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 210
+19:12:53.476 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:12:53.476 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.476 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 121
+19:12:53.476 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 232
+19:12:53.477 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 186
+19:12:53.477 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:12:53.477 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.477 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 121
+19:12:53.477 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 217
+19:12:53.477 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 186
+19:12:53.477 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 182
+19:12:53.477 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.477 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 106
+19:12:53.477 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 217
+19:12:53.477 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 186
+19:12:53.477 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 158
+19:12:53.477 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.477 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 106
+19:12:53.477 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 212
+19:12:53.477 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 186
+19:12:53.478 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 134
+19:12:53.478 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.478 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 106
+19:12:53.478 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 197
+19:12:53.478 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 162
+19:12:53.478 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 134
+19:12:53.478 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.478 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 106
+19:12:53.478 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 182
+19:12:53.478 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 138
+19:12:53.478 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 134
+19:12:53.478 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.478 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 101
+19:12:53.478 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 182
+19:12:53.478 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 138
+19:12:53.478 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 110
+19:12:53.478 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.479 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 96
+19:12:53.479 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 182
+19:12:53.479 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 138
+19:12:53.479 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 86
+19:12:53.479 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.479 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 96
+19:12:53.479 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 167
+19:12:53.479 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 114
+19:12:53.479 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 86
+19:12:53.479 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.480 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 91
+19:12:53.480 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 167
+19:12:53.480 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 90
+19:12:53.480 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 86
+19:12:53.480 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.480 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 91
+19:12:53.480 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 152
+19:12:53.480 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 66
+19:12:53.480 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 86
+19:12:53.480 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.480 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 86
+19:12:53.480 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 152
+19:12:53.480 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 42
+19:12:53.480 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 86
+19:12:53.480 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.480 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 86
+19:12:53.481 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 147
+19:12:53.481 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 18
+19:12:53.481 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 86
+19:12:53.481 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.481 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 86
+19:12:53.481 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 142
+19:12:53.481 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 18
+19:12:53.481 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 62
+19:12:53.481 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.481 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 71
+19:12:53.481 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 142
+19:12:53.481 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 18
+19:12:53.481 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 38
+19:12:53.481 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.482 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 71
+19:12:53.482 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 127
+19:12:53.482 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 18
+19:12:53.482 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 14
+19:12:53.482 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.482 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 71
+19:12:53.482 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 112
+19:12:53.482 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 18
+19:12:53.482 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:12:53.482 [main] ERROR by.bsu.composite.main.Main - There are no alive warriors in any army!
+19:19:58.152 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 292
+19:19:58.153 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 300
+19:19:58.154 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 330
+19:19:58.154 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 250
+19:19:58.154 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 326
+19:19:58.154 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.154 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.154 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 284
+19:19:58.154 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 300
+19:19:58.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 330
+19:19:58.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 250
+19:19:58.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 302
+19:19:58.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 284
+19:19:58.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 295
+19:19:58.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 330
+19:19:58.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 226
+19:19:58.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 302
+19:19:58.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 276
+19:19:58.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 295
+19:19:58.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 330
+19:19:58.157 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 226
+19:19:58.157 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 278
+19:19:58.157 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.157 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.157 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 276
+19:19:58.157 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 287
+19:19:58.157 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 306
+19:19:58.157 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 226
+19:19:58.158 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 278
+19:19:58.158 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.158 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.158 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 276
+19:19:58.158 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 279
+19:19:58.158 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 282
+19:19:58.158 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 226
+19:19:58.158 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 278
+19:19:58.158 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.159 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.159 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 268
+19:19:58.159 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 279
+19:19:58.159 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 282
+19:19:58.159 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 202
+19:19:58.159 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 278
+19:19:58.159 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.159 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.159 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 263
+19:19:58.159 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 279
+19:19:58.159 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 282
+19:19:58.160 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 202
+19:19:58.160 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:19:58.160 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.160 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.160 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 263
+19:19:58.160 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 274
+19:19:58.160 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 282
+19:19:58.160 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 178
+19:19:58.161 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:19:58.161 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.161 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.161 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 263
+19:19:58.161 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 259
+19:19:58.161 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 282
+19:19:58.161 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 178
+19:19:58.161 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 230
+19:19:58.161 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.161 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.162 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 255
+19:19:58.162 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 259
+19:19:58.162 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 282
+19:19:58.162 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 178
+19:19:58.162 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:19:58.162 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.162 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.162 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 255
+19:19:58.162 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 251
+19:19:58.163 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 282
+19:19:58.163 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 154
+19:19:58.163 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:19:58.163 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.163 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.163 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 255
+19:19:58.163 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 236
+19:19:58.163 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 282
+19:19:58.163 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 130
+19:19:58.163 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:19:58.163 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.164 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.164 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 255
+19:19:58.164 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 228
+19:19:58.164 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 258
+19:19:58.164 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 130
+19:19:58.164 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:19:58.164 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.164 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.164 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 255
+19:19:58.164 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 220
+19:19:58.164 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 258
+19:19:58.164 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 106
+19:19:58.164 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:19:58.164 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.165 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.165 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 247
+19:19:58.165 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 220
+19:19:58.165 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 258
+19:19:58.165 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 82
+19:19:58.165 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:19:58.165 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.165 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.165 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 247
+19:19:58.165 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 212
+19:19:58.165 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 258
+19:19:58.165 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 58
+19:19:58.165 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:19:58.165 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.165 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.166 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 247
+19:19:58.166 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 204
+19:19:58.166 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 258
+19:19:58.166 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 34
+19:19:58.166 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:19:58.166 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.166 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.166 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 242
+19:19:58.166 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 204
+19:19:58.166 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 258
+19:19:58.166 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 10
+19:19:58.167 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:19:58.167 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.167 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.167 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 242
+19:19:58.167 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 199
+19:19:58.167 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 258
+19:19:58.167 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:19:58.167 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.167 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.167 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 242
+19:19:58.168 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 184
+19:19:58.168 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 234
+19:19:58.168 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:19:58.168 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.168 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.168 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 227
+19:19:58.168 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 184
+19:19:58.168 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 234
+19:19:58.168 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 182
+19:19:58.168 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.168 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.169 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 212
+19:19:58.169 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 184
+19:19:58.169 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 234
+19:19:58.169 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 158
+19:19:58.169 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.169 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.169 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 197
+19:19:58.169 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 184
+19:19:58.169 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 234
+19:19:58.169 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 134
+19:19:58.169 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.169 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.169 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 197
+19:19:58.169 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 169
+19:19:58.169 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 234
+19:19:58.170 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 110
+19:19:58.170 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.170 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.170 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 197
+19:19:58.170 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 154
+19:19:58.170 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 210
+19:19:58.170 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 110
+19:19:58.170 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.170 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.170 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 192
+19:19:58.170 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 154
+19:19:58.170 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 186
+19:19:58.171 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 110
+19:19:58.171 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.171 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.171 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 177
+19:19:58.171 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 154
+19:19:58.171 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 162
+19:19:58.171 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 110
+19:19:58.171 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.171 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.171 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 177
+19:19:58.171 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 139
+19:19:58.171 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 162
+19:19:58.172 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 86
+19:19:58.172 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.172 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.172 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 162
+19:19:58.172 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 139
+19:19:58.172 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 162
+19:19:58.172 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 62
+19:19:58.172 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.172 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.172 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 157
+19:19:58.172 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 139
+19:19:58.172 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 162
+19:19:58.173 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 38
+19:19:58.173 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.173 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.173 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 157
+19:19:58.173 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 124
+19:19:58.173 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 138
+19:19:58.173 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 38
+19:19:58.173 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.173 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.173 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 157
+19:19:58.173 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 109
+19:19:58.174 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 138
+19:19:58.174 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 14
+19:19:58.174 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.174 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.174 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 142
+19:19:58.174 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 109
+19:19:58.174 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 114
+19:19:58.174 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 14
+19:19:58.174 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.174 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.174 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 142
+19:19:58.174 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 94
+19:19:58.174 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 90
+19:19:58.175 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 14
+19:19:58.175 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.175 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.175 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 142
+19:19:58.175 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 89
+19:19:58.175 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 66
+19:19:58.175 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 14
+19:19:58.175 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.175 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.175 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 142
+19:19:58.178 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 74
+19:19:58.178 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 66
+19:19:58.178 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.178 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.178 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 142
+19:19:58.178 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 59
+19:19:58.178 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 42
+19:19:58.178 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.178 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.178 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 127
+19:19:58.178 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 59
+19:19:58.178 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 18
+19:19:58.179 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:19:58.179 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE won!
+19:19:58.179 [main] ERROR by.bsu.composite.main.Main - There are no alive warriors in any army!
+19:20:13.113 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 300
+19:20:13.115 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 295
+19:20:13.115 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 330
+19:20:13.115 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 226
+19:20:13.116 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 350
+19:20:13.116 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.116 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.116 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 300
+19:20:13.116 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 290
+19:20:13.116 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 330
+19:20:13.116 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 226
+19:20:13.116 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 326
+19:20:13.116 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.117 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.117 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 300
+19:20:13.117 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 285
+19:20:13.117 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 330
+19:20:13.117 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 226
+19:20:13.117 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 302
+19:20:13.117 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.117 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.117 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 295
+19:20:13.118 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 285
+19:20:13.118 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 306
+19:20:13.118 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 226
+19:20:13.118 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 302
+19:20:13.118 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.118 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.118 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 280
+19:20:13.118 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 285
+19:20:13.118 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 282
+19:20:13.118 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 226
+19:20:13.118 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 302
+19:20:13.118 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.118 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.119 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 265
+19:20:13.119 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 285
+19:20:13.119 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 282
+19:20:13.119 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 202
+19:20:13.119 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 302
+19:20:13.119 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.119 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.119 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 265
+19:20:13.119 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 280
+19:20:13.119 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 282
+19:20:13.119 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 202
+19:20:13.120 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 278
+19:20:13.120 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.120 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.120 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 250
+19:20:13.120 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 280
+19:20:13.120 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 282
+19:20:13.120 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 178
+19:20:13.120 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 278
+19:20:13.120 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.120 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.121 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 242
+19:20:13.121 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 280
+19:20:13.121 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 282
+19:20:13.121 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 154
+19:20:13.121 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 278
+19:20:13.121 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.121 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.121 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 237
+19:20:13.121 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 280
+19:20:13.121 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 282
+19:20:13.122 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 130
+19:20:13.122 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 278
+19:20:13.122 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.122 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.122 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 237
+19:20:13.122 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 272
+19:20:13.144 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 282
+19:20:13.144 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 106
+19:20:13.144 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 278
+19:20:13.144 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.145 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.145 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 237
+19:20:13.145 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 267
+19:20:13.145 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 258
+19:20:13.145 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 106
+19:20:13.145 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 278
+19:20:13.145 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.145 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.145 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 237
+19:20:13.145 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 259
+19:20:13.145 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 234
+19:20:13.145 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 106
+19:20:13.146 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 278
+19:20:13.146 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.146 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.146 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 222
+19:20:13.146 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 259
+19:20:13.146 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 234
+19:20:13.146 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 106
+19:20:13.146 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:20:13.146 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.146 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.146 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 217
+19:20:13.147 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 259
+19:20:13.147 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 234
+19:20:13.147 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 82
+19:20:13.147 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:20:13.147 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.147 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.147 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 217
+19:20:13.147 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 244
+19:20:13.147 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 234
+19:20:13.149 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 58
+19:20:13.149 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:20:13.149 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.149 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.149 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 209
+19:20:13.149 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 244
+19:20:13.149 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 234
+19:20:13.149 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 34
+19:20:13.149 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:20:13.149 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.149 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.149 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 194
+19:20:13.150 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 244
+19:20:13.150 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 210
+19:20:13.150 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 34
+19:20:13.150 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:20:13.150 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.150 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.150 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 189
+19:20:13.150 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 244
+19:20:13.150 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 186
+19:20:13.150 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 34
+19:20:13.150 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:20:13.150 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.150 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.150 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 181
+19:20:13.150 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 244
+19:20:13.150 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 186
+19:20:13.150 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 10
+19:20:13.151 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:20:13.151 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.151 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.151 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 181
+19:20:13.151 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 229
+19:20:13.151 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 186
+19:20:13.151 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 10
+19:20:13.151 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 230
+19:20:13.151 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.151 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.151 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 166
+19:20:13.151 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 229
+19:20:13.151 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 162
+19:20:13.151 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 10
+19:20:13.152 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 230
+19:20:13.152 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.152 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.152 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 161
+19:20:13.152 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 229
+19:20:13.152 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 162
+19:20:13.152 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 230
+19:20:13.152 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.152 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.152 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 161
+19:20:13.152 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 214
+19:20:13.152 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 162
+19:20:13.152 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:20:13.152 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.152 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.152 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 156
+19:20:13.152 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 214
+19:20:13.153 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 138
+19:20:13.153 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:20:13.153 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.153 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.153 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 141
+19:20:13.153 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 214
+19:20:13.153 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 114
+19:20:13.153 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:20:13.153 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.153 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.153 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 126
+19:20:13.153 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 214
+19:20:13.153 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 90
+19:20:13.153 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:20:13.153 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.153 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.154 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 111
+19:20:13.154 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 214
+19:20:13.154 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 90
+19:20:13.154 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 182
+19:20:13.154 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.154 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.154 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 96
+19:20:13.154 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 214
+19:20:13.154 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 66
+19:20:13.154 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 182
+19:20:13.154 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.154 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.154 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 96
+19:20:13.154 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 209
+19:20:13.154 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 42
+19:20:13.154 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 182
+19:20:13.154 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 96
+19:20:13.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 194
+19:20:13.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 42
+19:20:13.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 158
+19:20:13.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 96
+19:20:13.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 179
+19:20:13.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 18
+19:20:13.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 158
+19:20:13.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 96
+19:20:13.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 174
+19:20:13.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 18
+19:20:13.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 134
+19:20:13.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.155 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 96
+19:20:13.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 169
+19:20:13.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 18
+19:20:13.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 110
+19:20:13.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 96
+19:20:13.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 164
+19:20:13.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 110
+19:20:13.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 96
+19:20:13.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 159
+19:20:13.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 86
+19:20:13.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 96
+19:20:13.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 154
+19:20:13.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 62
+19:20:13.156 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.157 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.157 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 96
+19:20:13.157 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 149
+19:20:13.157 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 38
+19:20:13.157 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.157 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.157 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 96
+19:20:13.157 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 144
+19:20:13.157 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 14
+19:20:13.157 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:20:13.157 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE won!
+19:20:13.157 [main] ERROR by.bsu.composite.main.Main - There are no alive warriors in any army!
+19:24:30.199 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 300
+19:24:30.200 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 292
+19:24:30.201 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 330
+19:24:30.201 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 226
+19:24:30.201 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 350
+19:24:30.201 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.201 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 295
+19:24:30.201 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 292
+19:24:30.201 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 330
+19:24:30.201 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 202
+19:24:30.202 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 350
+19:24:30.202 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.202 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 295
+19:24:30.202 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 284
+19:24:30.202 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 330
+19:24:30.202 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 202
+19:24:30.202 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 326
+19:24:30.202 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.203 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 295
+19:24:30.203 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 276
+19:24:30.203 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 306
+19:24:30.203 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 202
+19:24:30.203 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 326
+19:24:30.203 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.203 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 295
+19:24:30.203 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 268
+19:24:30.203 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 306
+19:24:30.203 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 202
+19:24:30.203 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 302
+19:24:30.203 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.204 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 295
+19:24:30.204 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 260
+19:24:30.204 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 306
+19:24:30.204 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 178
+19:24:30.204 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 302
+19:24:30.204 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.204 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 295
+19:24:30.204 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 255
+19:24:30.204 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 306
+19:24:30.204 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 154
+19:24:30.204 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 302
+19:24:30.204 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.204 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 290
+19:24:30.205 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 255
+19:24:30.205 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 282
+19:24:30.205 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 154
+19:24:30.205 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 302
+19:24:30.205 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.205 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 275
+19:24:30.205 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 255
+19:24:30.205 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 282
+19:24:30.205 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 154
+19:24:30.206 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 278
+19:24:30.206 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.206 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 260
+19:24:30.206 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 255
+19:24:30.206 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 258
+19:24:30.206 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 154
+19:24:30.206 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 278
+19:24:30.206 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.206 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 260
+19:24:30.206 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 240
+19:24:30.206 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 258
+19:24:30.207 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 154
+19:24:30.207 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:24:30.207 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.207 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 245
+19:24:30.207 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 240
+19:24:30.207 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 234
+19:24:30.207 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 154
+19:24:30.208 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:24:30.208 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.208 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 245
+19:24:30.208 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 235
+19:24:30.208 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 210
+19:24:30.208 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 154
+19:24:30.208 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:24:30.208 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.208 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 230
+19:24:30.208 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 235
+19:24:30.208 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 210
+19:24:30.209 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 130
+19:24:30.209 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:24:30.209 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.209 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 215
+19:24:30.209 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 235
+19:24:30.209 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 210
+19:24:30.209 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 106
+19:24:30.209 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:24:30.209 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.209 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 207
+19:24:30.209 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 235
+19:24:30.209 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 210
+19:24:30.210 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 82
+19:24:30.210 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:24:30.210 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.210 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 192
+19:24:30.210 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 235
+19:24:30.210 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 186
+19:24:30.210 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 82
+19:24:30.210 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:24:30.210 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.210 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 192
+19:24:30.210 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 230
+19:24:30.210 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 186
+19:24:30.210 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 58
+19:24:30.210 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 254
+19:24:30.210 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.212 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 184
+19:24:30.212 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 230
+19:24:30.212 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 186
+19:24:30.212 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 58
+19:24:30.213 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 230
+19:24:30.213 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.213 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 176
+19:24:30.213 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 230
+19:24:30.213 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 186
+19:24:30.213 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 34
+19:24:30.213 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 230
+19:24:30.213 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.213 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 176
+19:24:30.213 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 225
+19:24:30.213 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 162
+19:24:30.213 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 34
+19:24:30.213 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 230
+19:24:30.213 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.213 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 171
+19:24:30.214 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 225
+19:24:30.214 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 162
+19:24:30.214 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 34
+19:24:30.214 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:24:30.214 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.214 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 171
+19:24:30.214 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 217
+19:24:30.214 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 162
+19:24:30.214 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 10
+19:24:30.214 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 206
+19:24:30.215 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.215 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 156
+19:24:30.215 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 217
+19:24:30.215 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 162
+19:24:30.215 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 10
+19:24:30.215 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 182
+19:24:30.215 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.215 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 148
+19:24:30.215 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 217
+19:24:30.217 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 138
+19:24:30.217 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 10
+19:24:30.217 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 182
+19:24:30.217 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.217 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 148
+19:24:30.217 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 209
+19:24:30.217 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 138
+19:24:30.217 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 10
+19:24:30.217 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 158
+19:24:30.217 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.217 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 148
+19:24:30.217 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 204
+19:24:30.217 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 138
+19:24:30.217 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 10
+19:24:30.217 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 134
+19:24:30.217 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.217 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 140
+19:24:30.218 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 204
+19:24:30.218 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 138
+19:24:30.218 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 10
+19:24:30.218 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 110
+19:24:30.218 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.218 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 140
+19:24:30.218 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 196
+19:24:30.218 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 138
+19:24:30.218 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 10
+19:24:30.218 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 86
+19:24:30.218 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.218 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 125
+19:24:30.218 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 196
+19:24:30.218 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 114
+19:24:30.218 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 10
+19:24:30.218 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 86
+19:24:30.218 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.218 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 125
+19:24:30.219 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 191
+19:24:30.219 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 90
+19:24:30.219 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 10
+19:24:30.219 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 86
+19:24:30.219 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.219 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 125
+19:24:30.219 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 186
+19:24:30.219 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 90
+19:24:30.219 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 86
+19:24:30.219 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.219 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 110
+19:24:30.219 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 186
+19:24:30.219 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 66
+19:24:30.219 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 86
+19:24:30.219 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.219 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 110
+19:24:30.219 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 181
+19:24:30.220 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 42
+19:24:30.220 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 86
+19:24:30.220 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.220 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 110
+19:24:30.220 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 166
+19:24:30.220 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 42
+19:24:30.220 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 62
+19:24:30.220 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.220 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 95
+19:24:30.220 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 166
+19:24:30.220 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 42
+19:24:30.220 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 38
+19:24:30.220 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.220 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 90
+19:24:30.220 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 166
+19:24:30.220 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 42
+19:24:30.220 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 14
+19:24:30.220 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.220 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 75
+19:24:30.221 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 166
+19:24:30.221 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 18
+19:24:30.221 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 14
+19:24:30.221 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.221 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 75
+19:24:30.221 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ALLIANCE warrior: health points - 161
+19:24:30.221 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - HORDE warrior: health points - 14
+19:24:30.221 [main] INFO  by.bsu.composite.statistics.WarStatisticsWriter - ____________
+19:24:30.221 [main] ERROR by.bsu.composite.war.ClanWar - There are no alive warriors in any army!
+19:24:30.221 [main] INFO  by.bsu.composite.war.ClanWar - Alliance won!
