@@ -6,6 +6,7 @@ import by.bsu.audioservice.entity.Genre;
 import by.bsu.audioservice.exception.DAOException;
 import by.bsu.audioservice.exception.LogicException;
 import by.bsu.audioservice.exception.TechnicalException;
+import by.bsu.audioservice.util.GenreUtil;
 import by.bsu.audioservice.valid.AudioDataValidator;
 
 /**
@@ -29,13 +30,13 @@ public class LoadAudioLogic {
     public static void loadAudio(String singer, String name, String audioUrl, String price, String genreStr, String demoUrl) throws TechnicalException, LogicException {
         Audio audio = null;
         if (AudioDataValidator.isCorrectPrice(price) & AudioDataValidator.isCorrectGenre(genreStr)){
-            audio = new Audio(singer, name, audioUrl, new Float(price), Genre.valueOf(genreStr.toUpperCase()));
+            audio = new Audio(singer, name, audioUrl, new Float(price), GenreUtil.getGenreFromString(genreStr));
             try {
                 if (!AudioDAO.getInstance().isExist(singer, name)) {
                     AudioDAO.getInstance().addAudio(audio);
                     Long audioId = AudioDAO.getInstance().takeAudioIdByURL(audioUrl);
                     audio.setAudioId(audioId);
-                    Genre genre = Genre.valueOf(genreStr.toUpperCase());
+                    Genre genre = GenreUtil.getGenreFromString(genreStr);
                     Long genreId = AudioDAO.getInstance().takeGenreIdByGenre(genre);
                     AudioDAO.getInstance().addGenreToNewAudio(genreId, audioId);
                     AudioDAO.getInstance().addDemoAudio(audio, demoUrl);

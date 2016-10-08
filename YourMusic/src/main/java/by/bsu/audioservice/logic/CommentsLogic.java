@@ -12,7 +12,6 @@ import java.util.ArrayList;
  */
 public class CommentsLogic {
 
-
     public static ArrayList<Comment> takeComments() throws TechnicalException {
         try {
             return CommentDAO.getInstance().takeComments();

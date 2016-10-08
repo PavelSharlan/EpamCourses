@@ -38,10 +38,11 @@ public class AudioDataValidator {
      */
     public static boolean isCorrectGenre(String genre){
         boolean flag = false;
-        if (genre.toUpperCase().equals(Genre.HIP_HOP.toString()) ||genre.toUpperCase().equals(Genre.POP.toString()) ||
+        if (genre.toUpperCase().equals(Genre.HIP_HOP.toString().replace("_", "-")) ||genre.toUpperCase().equals(Genre.POP.toString()) ||
                 genre.toUpperCase().equals(Genre.ROCK.toString())){
             flag = true;
         }
         return flag;
     }
+
 }

@@ -43,11 +43,11 @@ public class GenreUtil {
      */
     public static Genre getGenreFromString(String genreStr){
         Genre genre;
-        if (genreStr.toUpperCase().equals(HIP_HOP.toUpperCase())){
+        if (genreStr.toUpperCase().equals(HIP_HOP.toUpperCase().replace("_", "-"))){
             genre = Genre.HIP_HOP;
         } else if (genreStr.toUpperCase().equals(POP.toUpperCase())){
             genre = Genre.POP;
-        } else {
+        } else  {
             genre = Genre.ROCK;
         }
         return genre;

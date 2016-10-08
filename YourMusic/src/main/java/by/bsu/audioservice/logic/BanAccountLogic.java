@@ -5,6 +5,8 @@ import by.bsu.audioservice.exception.DAOException;
 import by.bsu.audioservice.exception.TechnicalException;
 
 /**
+ *
+ *
  * Created by 7 on 15.09.2016.
  */
 public class BanAccountLogic {
