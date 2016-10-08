@@ -36,7 +36,6 @@ $(document).ready(function() {
             headers: {"Access-Control-Allow-Origin": "*"},
             contentType: "application/json; charset=utf-8",
             success: function (responseText) {
-                alert("BLA");
             },
             error: function (responseText) {
 
@@ -131,9 +130,12 @@ $(document).ready(function() {
             headers: {"Access-Control-Allow-Origin": "*"},
             contentType: "application/json; charset=utf-8",
             success: function (responseText) {
+                debugger;
+                $("#all-music").prepend(alertSuccess(responseText.text));
             },
             error: function (responseText) {
-                ("#all-audios").find(".all-audio-scroll").before(alertError(JSON.parse(responseText.responseText).text)).show();
+                debugger;
+                $("#all-music").prepend(alertWarning(JSON.parse(responseText.responseText).text));
             }
         });
     });
@@ -154,9 +156,10 @@ $(document).ready(function() {
             contentType: "application/json; charset=utf-8",
             success: function (responseText) {
                 $(".basket-scroll").children().remove();
+                $("#audio-basket").prepend(alertSuccess(responseText.text));
             },
             error: function (responseText) {
-
+                $("#all-music").prepend(alertWarning(JSON.parse(responseText.responseText).text));
             }
         });
     });

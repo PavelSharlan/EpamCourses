@@ -45,7 +45,7 @@
                                                 aria-hidden="true">&times;</button>
                                         <h4 class="modal-title" id="myModalLabel1"><fmt:message key="button.basket"/></h4>
                                     </div>
-                                    <div class="modal-body">
+                                    <div id="audio-basket" class="modal-body">
                                         <table class="table table-striped">
                                             <thead>
                                             <tr>
@@ -88,7 +88,7 @@
                         <div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel2"
                              aria-hidden="true">
                             <div class="modal-dialog">
-                                <div class="modal-content">
+                                <div id="modal-basket" class="modal-content">
                                     <div class="modal-header">
                                         <button type="button" class="close" data-dismiss="modal"
                                                 aria-hidden="true">&times;</button>
@@ -129,7 +129,7 @@
     </div>
 </nav>
 
-<div class="col-md-offset-3 col-md-7">
+<div id="all-music" class="col-md-offset-3 col-md-7">
     <form action="controller" method="post">
         <input type="hidden" name="command" value="sort_music">
         <span>

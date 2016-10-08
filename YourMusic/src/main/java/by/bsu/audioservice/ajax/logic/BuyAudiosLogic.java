@@ -4,6 +4,7 @@ import by.bsu.audioservice.dao.impl.PurchaseDAO;
 import by.bsu.audioservice.dao.impl.UserAccountDAO;
 import by.bsu.audioservice.entity.UserAccount;
 import by.bsu.audioservice.exception.DAOException;
+import by.bsu.audioservice.exception.LogicException;
 import by.bsu.audioservice.exception.TechnicalException;
 
 import java.util.ArrayList;
@@ -22,7 +23,7 @@ public class BuyAudiosLogic {
      * @return boolean
      * @throws TechnicalException
      */
-    public static boolean buy(UserAccount account) throws TechnicalException {
+    public static boolean buy(UserAccount account) throws TechnicalException, LogicException {
         boolean flag = false;
         try {
             Float balance = account.getBalance();
@@ -38,6 +39,8 @@ public class BuyAudiosLogic {
                 UserAccountDAO.getInstance().updateBalance(accountId, balance);
                 PurchaseDAO.getInstance().deletePurchasesFromBasket(accountId);
                 flag = true;
+            } else {
+                throw new LogicException("Something is wrong with money!");
             }
         } catch (DAOException e) {
             throw new TechnicalException("DAOException", e);

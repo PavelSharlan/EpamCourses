@@ -3,6 +3,7 @@ package by.bsu.audioservice.ajax.command.impl;
 import by.bsu.audioservice.ajax.command.Command;
 import by.bsu.audioservice.ajax.logic.BuyAudiosLogic;
 import by.bsu.audioservice.entity.UserAccount;
+import by.bsu.audioservice.exception.LogicException;
 import by.bsu.audioservice.exception.TechnicalException;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -25,6 +26,12 @@ public class BuyAudiosCommand implements Command {
     /** Field LOGGER */
     private static final Logger LOGGER = LogManager.getLogger(BuyAudiosCommand.class);
 
+    /** Field TEXT */
+    public static final String TEXT = "text";
+
+    /** Field MESSAGE_SUCCESS_BUY_AUDIO */
+    private static final String MESSAGE_SUCCESS_BUY_AUDIO = "Successfully purchased";
+
     /**
      * Method execute ...
      *
@@ -41,10 +48,16 @@ public class BuyAudiosCommand implements Command {
         try {
             UserAccount account = (UserAccount) request.getSession().getAttribute(USER_ACCOUNT);
             BuyAudiosLogic.buy(account);
+            object.put(TEXT, MESSAGE_SUCCESS_BUY_AUDIO);
             out.println(object);
             response.setStatus(HttpServletResponse.SC_OK);
         } catch (TechnicalException e) {
             LOGGER.error("Something was wrong", e);
+            response.setStatus(HttpServletResponse.SC_INTERNAL_SERVER_ERROR);
+        } catch (LogicException e) {
+            LOGGER.error("LogicException", e);
+            object.put(TEXT, e.getMessage());
+            out.println(object);
             response.setStatus(HttpServletResponse.SC_INTERNAL_SERVER_ERROR);
         } finally {
             out.flush();

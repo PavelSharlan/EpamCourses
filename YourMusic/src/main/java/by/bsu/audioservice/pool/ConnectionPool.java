@@ -61,7 +61,7 @@ public class ConnectionPool {
             String driver = ConfigurationManager.getInstance().getProperty(ConfigurationManager.DRIVER);
             Class.forName(driver);
         } catch (ClassNotFoundException e) {
-            e.printStackTrace();
+            LOGGER.error("ClassNotFoundException", e);
         }
         for (int i = 0; i < connectionsCount; i++){
             connections.add(createConnection());
