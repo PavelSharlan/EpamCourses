@@ -19,8 +19,9 @@ public class UserDataValidator {
     private static final String PHONE_REGEX = "(80[17|25|29|33|44][0-9]{8})";
 
     /** Field NAME_REGEX */
-    private static final String NAME_REGEX = "[A-ZА-ЯЁ][a-zа-яё]{2,19}";
+    private static final String NAME_REGEX = "[A-ZА-ЯЁ][a-zа-яё]{2,15}";
 
+    /** Field LAST_NAME_REGEX */
     /**
      * Validate boolean.
      *
@@ -28,13 +29,13 @@ public class UserDataValidator {
      * @return boolean
      * @throws LogicException the logic exception
      */
-    public static boolean validate(User user) throws LogicException {
+    public static boolean validate(User user){
+        boolean flag = false;
         if (fieldValidate(user.getEmail(), EMAIL_REGEX) && fieldValidate(user.getFirstName(), NAME_REGEX) &&
                 fieldValidate(user.getSecondName(), NAME_REGEX) && fieldValidate(user.getPhoneNumber(), PHONE_REGEX)){
-            return true;
-        } else {
-            throw new LogicException("Something is wrong!");
+            flag = true;
         }
+        return flag;
     }
 
     /**

@@ -8,6 +8,7 @@ import by.bsu.audioservice.exception.DAOException;
 import by.bsu.audioservice.exception.LogicException;
 import by.bsu.audioservice.exception.TechnicalException;
 import by.bsu.audioservice.util.MD5Hash;
+import by.bsu.audioservice.valid.UserDataValidator;
 
 /**
  * Class RegisterLogic
@@ -43,13 +44,17 @@ public class RegisterLogic {
      * @param user of type User
      * @throws TechnicalException
      */
-    public static void addUser(User user) throws TechnicalException {
+    public static void addUser(User user) throws TechnicalException, LogicException {
         String hashPass = MD5Hash.md5Custom(user.getPassword());
         user.setPassword(hashPass);
-        try {
-            UserDAO.getInstance().addUser(user);
-        } catch (DAOException e) {
-            throw new TechnicalException("DAOException", e);
+        if (UserDataValidator.validate(user)) {
+            try {
+                UserDAO.getInstance().addUser(user);
+            } catch (DAOException e) {
+                throw new TechnicalException("DAOException", e);
+            }
+        } else {
+            throw new LogicException("Wrong input data!");
         }
     }
 

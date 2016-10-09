@@ -8,7 +8,7 @@ import java.util.regex.Pattern;
  */
 public class PasswordValidator {
 
-    private static final String PASSWORD_REGEX = ".{3,}";
+    private static final String PASSWORD_REGEX = ".{6,}";
 
     /**
      * Validate boolean.

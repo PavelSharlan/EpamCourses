@@ -25,7 +25,7 @@
                             <input type="email" id="email1" name="email" required class="form-control" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}">
                             <br/>
                             <label for="password1"><fmt:message key="label.password"/></label>
-                            <input type="password" id="password1" name="password" required class="form-control" pattern=".{3,}" title="Three or more characters">
+                            <input type="password" id="password1" name="password" required class="form-control" pattern=".{6,}" title="Three or more characters">
                             <input type="submit" value="<fmt:message key="button.authorization"/>" class="btn btn-login-submit"/>
                             <br/>
                                 ${error}
@@ -40,15 +40,15 @@
                     <input type = "hidden" name = "command" value = "register">
                         <div class="form-group-inline">
                             <label for="first_name"><fmt:message key="label.name"/><span class="star">*</span></label>
-                            <input type="text" id="first_name" name="first_name" class="form-control input" pattern="[^\s\d]{2,}" title = "Two or more letters" required>
+                            <input type="text" id="first_name" name="first_name" class="form-control input" pattern="^[A-ZА-ЯЁ][a-zа-яё]{2,15}$" title = "2 or more letters" required>
                         </div>
                         <div class="form-group-inline">
                             <label for="last_name"><fmt:message key="label.last_name"/><span class="star">*</span></label>
-                            <input type="text" id="last_name" name="last_name" class="form-control input" pattern="[^\s\d]{2,}" title = "Two or more letters" required>
+                            <input type="text" id="last_name" name="last_name" class="form-control input" pattern="^[A-ZА-ЯЁ][a-zа-яё]{2,15}$" title = "2 or more letters" required>
                         </div>
                         <div class="form-group-inline">
                             <label for="phone"><fmt:message key="label.phone_number"/><span class="star">*</span></label>
-                            <input type="text" id="phone" name="phone_number" class="form-control input" pattern="(\+)?[0-9]{7,13}" required>
+                            <input type="text" id="phone" name="phone_number" class="form-control input" pattern="(80[17|25|29|33|44][0-9]{8})" required>
                         </div>
                         <div class="form-group-inline">
                             <label for="email2"><fmt:message key="label.email"/><span class="star">*</span></label>
@@ -57,7 +57,7 @@
                         </div>
                         <div class="form-group-inline">
                             <label for="password2"><fmt:message key="label.password"/><span class="star">*</span></label>
-                            <input type="password" id="password2" name="password" class="form-control input" pattern=".{3,}" title="Six or more characters"  required>
+                            <input type="password" id="password2" name="password" class="form-control input" pattern=".{6,}" title="Six or more characters"  required>
                         </div>
                         <input type="submit" value="Регистрация" class="btn btn-login-submit"/>
                         <p id="login-link" class="link"><fmt:message key="button.authorization"/></p>

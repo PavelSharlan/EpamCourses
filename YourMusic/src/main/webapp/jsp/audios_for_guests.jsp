@@ -40,7 +40,7 @@
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <form name="register-form" action="controller">
+                    <form name="register-form" action="controller" method="post">
                         <input type="hidden" name="command" value="login_route">
                         <input type="submit" class="btn btn-primary" value="<fmt:message key="button.login"/>">
                     </form>

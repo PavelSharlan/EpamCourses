@@ -38,7 +38,7 @@
                                 </form>
                             </li>
                             <li>
-                                <form class="navbar-form"   action="controller" method="post">
+                                <form class="navbar-form" action="controller" method="post">
                                     <input type="hidden" name="command" value="language">
                                     <input type="hidden" name="lang" value="en_EN">
                                     <input class="language btn btn-default" id="eng" type="submit" name="eng" value="English">
@@ -48,13 +48,13 @@
                     </div>
                 </li>
                 <li>
-                    <form name="audio-form" action="controller">
+                    <form name="audio-form" action="controller" method="post">
                         <input type="hidden" name="command" value="all_audios_route">
                         <input type="submit" class="btn btn-info" value="<fmt:message key="button.audios"/>">
                     </form>
                 </li>
                 <li>
-                    <form name="audio-form" action="controller">
+                    <form name="audio-form" action="controller" method="post">
                         <input type="hidden" name="command" value="about_us_route">
                         <input type="submit" class="btn btn-info" value="<fmt:message key="button.about_us"/>">
                     </form>
@@ -62,7 +62,7 @@
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <form name="register-form" action="controller">
+                    <form name="register-form" action="controller" method="post">
                         <input type="hidden" name="command" value="login_route">
                         <input type="submit" class="btn btn-primary" value="<fmt:message key="button.login"/>">
                     </form>

@@ -21,6 +21,9 @@ import java.util.Date;
  * Created by 7 on 06.08.2016.
  */
 public class RegisterCommand implements Command {
+    /** Field ERROR */
+    public static final String ERROR = "error";
+
     /** Field EMAIL */
     private static final String EMAIL = "email";
 
@@ -66,7 +69,8 @@ public class RegisterCommand implements Command {
             RegisterLogic.addUserAccount(account);
             page = ConfigurationManager.getInstance().getProperty(ConfigurationManager.LOGIN_PAGE_PATH);
         } catch (LogicException e) {
-            request.setAttribute("error", "There is a user with the same login!");
+            LOGGER.error("LogicException", e);
+            request.setAttribute(ERROR, e.getMessage());
             page = ConfigurationManager.getInstance().getProperty(ConfigurationManager.LOGIN_PAGE_PATH);
         }catch (TechnicalException e) {
             LOGGER.error("Something was wrong, redirect to error page.");

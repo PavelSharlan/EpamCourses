@@ -6,6 +6,7 @@ import by.bsu.audioservice.exception.DAOException;
 import by.bsu.audioservice.exception.LogicException;
 import by.bsu.audioservice.exception.TechnicalException;
 import by.bsu.audioservice.util.MD5Hash;
+import by.bsu.audioservice.valid.PasswordValidator;
 
 /**
  * Class ChangePasswordLogic
@@ -25,11 +26,18 @@ public class ChangePasswordLogic {
      */
     public static void change(User user, String password, String newPassword, String newPasswordAgain) throws LogicException, TechnicalException {
         String hashPass = MD5Hash.md5Custom(password);
+        if (PasswordValidator.validate(password) && PasswordValidator.validate(newPassword)
+                && PasswordValidator.validate(newPasswordAgain)){
+            throw new LogicException("Incorrect password!");
+        }
         if (!user.getPassword().equals(hashPass)){
             throw new LogicException("Wrong password!");
         }
         if (!newPassword.equals(newPasswordAgain)){
             throw new LogicException("Passwords don't match!");
+        }
+        if (!newPassword.equals(password)){
+            throw new LogicException("Old and new password are not the same!");
         }
         try {
             UserDAO.getInstance().changeUserPassword(user, MD5Hash.md5Custom(newPassword));

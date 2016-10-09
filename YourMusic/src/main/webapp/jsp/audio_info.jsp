@@ -24,7 +24,7 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
                 <li>
-                    <form action="controller">
+                    <form action="controller" method="post">
                         <input type="hidden" name="command" value="admin_cabinet_route">
                         <input type="submit" class="btn btn-info" value="<fmt:message key="button.admin_cabinet"/>">
                     </form>
@@ -32,7 +32,7 @@
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <form name="audio-form" action="controller">
+                    <form name="audio-form" action="controller" method="post">
                         <input type="hidden" name="command" value="logout">
                         <input type="submit" class="btn btn-primary" value="<fmt:message key="button.log_out"/>">
                     </form>

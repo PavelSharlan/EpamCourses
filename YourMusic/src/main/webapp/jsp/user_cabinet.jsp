@@ -26,19 +26,19 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
                 <li>
-                    <form name="audio-form" action="controller">
+                    <form name="audio-form" action="controller" method="post">
                         <input type="hidden" name="command" value="show_all_audios">
                         <input type="submit" class="btn btn-info" value="<fmt:message key="button.audios"/>">
                     </form>
                 </li>
                 <li>
-                    <form name="comments-form" action="controller">
+                    <form name="comments-form" action="controller" method="post">
                         <input type="hidden" name="command" value="comments_route">
                         <input type="submit" class="btn btn-info" value="<fmt:message key="title.comments"/>">
                     </form>
                 </li>
                 <li>
-                    <form name="audio-form" action="controller">
+                    <form name="audio-form" action="controller" method="post">
                         <input type="hidden" name="command" value="edit_user_settings_route">
                         <input type="submit" class="btn btn-info" value="<fmt:message key="button.user_settings"/>">
                     </form>
@@ -57,7 +57,7 @@
                                 <div class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
                                     <div class="modal-dialog modal-sm" role="document">
                                         <div class="modal-content">
-                                            <form name="put_money_form" action="controller">
+                                            <form name="put_money_form" action="controller" method="post">
                                                 <input type="hidden" name="command" value="put_money">
                                                 <div class="form-group-inline">
                                                     <label for="money"><fmt:message key="label.put_money"/></label>
@@ -73,7 +73,7 @@
                     </a>
                 </li>
                 <li>
-                    <form name="audio-form" action="controller">
+                    <form name="audio-form" action="controller" method="post">
                         <input type="hidden" name="command" value="logout">
                         <input type="submit" class="btn btn-primary" value="<fmt:message key="button.log_out"/>">
                     </form>
